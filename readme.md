@@ -1,13 +1,17 @@
-# Video Stabilization 
+# Video Stabilization
 
-The simulation of vid_stab flow is:
+This repo is to implementation video stabilization by gyroscope, which is based on paper [A Non-Linear Filter for Gyroscope-Based Video
+Stabilization](https://research.nvidia.com/sites/default/files/pubs/2014-09_A-Non-Linear-Filter/bell_troccoli_pulli_eccv2014.pdf)
+
+
+The simulation of vid_stab flow is as below, 
 
 ![](image/EIS_sys.png)
 
 
-
-
 #### configuration
+
+The configuration in config/ folder, include:
 
 **debug_config.json**
 
