@@ -1,0 +1,14 @@
+{
+    "eis_pass1": true,
+    "eis_pass2":true,
+    "rs_correct_off": false,
+    "test_mode":false,
+    "test_frame_no": 100,
+    "start_frame_no":0,
+    "preserve_margin":false,
+    "log_image":false,
+    "use_opengl":true,
+    "warp_with_resize":false,
+    "show_plot":false
+    
+  }

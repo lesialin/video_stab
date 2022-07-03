@@ -1,0 +1,9 @@
+{
+    "blanking": 68,
+    "cmos_frame_height": 3000,
+    "cmos_frame_width": 4000,
+    "effective_height": 2256,
+    "effective_width": 4000,
+    "focal_in_mm": 4.74,
+    "sensor_width_in_mm": 6.4
+}

@@ -1,0 +1,4012 @@
+top blanking = 178
+frame_rate = 30.000000
+frame_duration = 0.033333
+line_duration = 0.000023
+rs_time = 0.025067
+================================
+focal length = 1418.218085
+================================
+out_dist = 135.000000
+load cmos log....
+load gyro log....
+cmos signal frame_count = 1
+cmos signal frame_count = 2
+=============================================================
+frame_count = 0
+start of frame: vs = 18321397412, exp = 100000
+prev_frame_ts = 1832.105541, current_frame_ts = 1832.138875, dt = 0.033333
+first_line_ts = 1832.138875, last_line_ts = 1832.163941
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+is_out_of_boundary = 0
+uncompensated_dist = 0.000000
+alpha = 0.000000
+cmos signal frame_count = 3
+=============================================================
+frame_count = 1
+start of frame: vs = 18321730660, exp = 100000
+prev_frame_ts = 1832.138875, current_frame_ts = 1832.172199, dt = 0.033325
+first_line_ts = 1832.172199, last_line_ts = 1832.197266
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+is_out_of_boundary = 0
+uncompensated_dist = 0.000000
+alpha = 0.000000
+cmos signal frame_count = 4
+=============================================================
+frame_count = 2
+start of frame: vs = 18322063908, exp = 100000
+prev_frame_ts = 1832.172199, current_frame_ts = 1832.205524, dt = 0.033325
+first_line_ts = 1832.205524, last_line_ts = 1832.230591
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+is_out_of_boundary = 0
+uncompensated_dist = 0.000000
+alpha = 0.000000
+cmos signal frame_count = 5
+=============================================================
+frame_count = 3
+start of frame: vs = 18322397156, exp = 100000
+prev_frame_ts = 1832.205524, current_frame_ts = 1832.238849, dt = 0.033325
+first_line_ts = 1832.238849, last_line_ts = 1832.263916
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+is_out_of_boundary = 0
+uncompensated_dist = 0.000000
+alpha = 0.000000
+cmos signal frame_count = 6
+=============================================================
+frame_count = 4
+start of frame: vs = 18322730404, exp = 100000
+prev_frame_ts = 1832.238849, current_frame_ts = 1832.272174, dt = 0.033325
+first_line_ts = 1832.272174, last_line_ts = 1832.297240
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+is_out_of_boundary = 0
+uncompensated_dist = 0.000000
+alpha = 0.000000
+cmos signal frame_count = 7
+=============================================================
+frame_count = 5
+start of frame: vs = 18323063652, exp = 100000
+prev_frame_ts = 1832.272174, current_frame_ts = 1832.305499, dt = 0.033325
+first_line_ts = 1832.305499, last_line_ts = 1832.330565
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+is_out_of_boundary = 0
+uncompensated_dist = 0.000000
+alpha = 0.000000
+cmos signal frame_count = 8
+=============================================================
+frame_count = 6
+start of frame: vs = 18323396900, exp = 100000
+prev_frame_ts = 1832.305499, current_frame_ts = 1832.338823, dt = 0.033325
+first_line_ts = 1832.338823, last_line_ts = 1832.363890
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+is_out_of_boundary = 0
+uncompensated_dist = 0.000000
+alpha = 0.000000
+cmos signal frame_count = 9
+=============================================================
+frame_count = 7
+start of frame: vs = 18323730148, exp = 100000
+prev_frame_ts = 1832.338823, current_frame_ts = 1832.372148, dt = 0.033325
+first_line_ts = 1832.372148, last_line_ts = 1832.397215
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+is_out_of_boundary = 0
+uncompensated_dist = 0.000000
+alpha = 0.000000
+cmos signal frame_count = 10
+=============================================================
+frame_count = 8
+start of frame: vs = 18324063396, exp = 100000
+prev_frame_ts = 1832.372148, current_frame_ts = 1832.405473, dt = 0.033325
+first_line_ts = 1832.405473, last_line_ts = 1832.430540
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+is_out_of_boundary = 0
+uncompensated_dist = 0.000000
+alpha = 0.000000
+cmos signal frame_count = 11
+=============================================================
+frame_count = 9
+start of frame: vs = 18324396644, exp = 100000
+prev_frame_ts = 1832.405473, current_frame_ts = 1832.438798, dt = 0.033325
+first_line_ts = 1832.438798, last_line_ts = 1832.463864
+now is outer moving region
+v_cam_orientation x/y/z: 0.000000, 0.000000, 0.000000
+p_cam_orientation x/y/z: -0.000469, 0.001693, 0.001133
+is_out_of_boundary = 0
+uncompensated_dist = 133.750000
+alpha = 0.949257
+cmos signal frame_count = 12
+=============================================================
+frame_count = 10
+start of frame: vs = 18324729892, exp = 100000
+prev_frame_ts = 1832.438798, current_frame_ts = 1832.472123, dt = 0.033325
+first_line_ts = 1832.472123, last_line_ts = 1832.497189
+now is outer moving region
+v_cam_orientation x/y/z: -0.000081, 0.000147, 0.000092
+p_cam_orientation x/y/z: 0.002166, 0.002368, 0.002807
+is_out_of_boundary = 0
+uncompensated_dist = 115.073099
+alpha = 0.947818
+cmos signal frame_count = 13
+=============================================================
+frame_count = 11
+start of frame: vs = 18325063140, exp = 100000
+prev_frame_ts = 1832.472123, current_frame_ts = 1832.505447, dt = 0.033325
+first_line_ts = 1832.505447, last_line_ts = 1832.530514
+now is outer moving region
+v_cam_orientation x/y/z: -0.000041, 0.000312, 0.000257
+p_cam_orientation x/y/z: 0.007173, 0.002696, 0.005457
+is_out_of_boundary = 0
+uncompensated_dist = 111.524204
+alpha = 0.946188
+cmos signal frame_count = 14
+=============================================================
+frame_count = 12
+start of frame: vs = 18325396388, exp = 100000
+prev_frame_ts = 1832.505447, current_frame_ts = 1832.538772, dt = 0.033325
+first_line_ts = 1832.538772, last_line_ts = 1832.563839
+now is outer moving region
+v_cam_orientation x/y/z: 0.000223, 0.000487, 0.000530
+p_cam_orientation x/y/z: 0.007812, 0.002894, 0.006869
+is_out_of_boundary = 0
+uncompensated_dist = 112.405571
+alpha = 0.944705
+cmos signal frame_count = 15
+=============================================================
+frame_count = 13
+start of frame: vs = 18325729636, exp = 100000
+prev_frame_ts = 1832.538772, current_frame_ts = 1832.572097, dt = 0.033325
+first_line_ts = 1832.572097, last_line_ts = 1832.597164
+now is outer moving region
+v_cam_orientation x/y/z: 0.000515, 0.000685, 0.000843
+p_cam_orientation x/y/z: 0.006946, 0.004119, 0.006103
+is_out_of_boundary = 0
+uncompensated_dist = 116.545724
+alpha = 0.943603
+cmos signal frame_count = 16
+=============================================================
+frame_count = 14
+start of frame: vs = 18326062884, exp = 100000
+prev_frame_ts = 1832.572097, current_frame_ts = 1832.605422, dt = 0.033325
+first_line_ts = 1832.605422, last_line_ts = 1832.630488
+now is outer moving region
+v_cam_orientation x/y/z: 0.000769, 0.000958, 0.001096
+p_cam_orientation x/y/z: 0.005658, 0.006647, 0.005184
+is_out_of_boundary = 0
+uncompensated_dist = 119.864619
+alpha = 0.942802
+cmos signal frame_count = 17
+=============================================================
+frame_count = 15
+start of frame: vs = 18326396132, exp = 100000
+prev_frame_ts = 1832.605422, current_frame_ts = 1832.638747, dt = 0.033325
+first_line_ts = 1832.638747, last_line_ts = 1832.663813
+now is outer moving region
+v_cam_orientation x/y/z: 0.000952, 0.001368, 0.001277
+p_cam_orientation x/y/z: 0.003455, 0.008271, 0.006038
+is_out_of_boundary = 0
+uncompensated_dist = 125.221044
+alpha = 0.942437
+cmos signal frame_count = 18
+=============================================================
+frame_count = 16
+start of frame: vs = 18326729380, exp = 100000
+prev_frame_ts = 1832.638747, current_frame_ts = 1832.672071, dt = 0.033325
+first_line_ts = 1832.672071, last_line_ts = 1832.697138
+now is outer moving region
+v_cam_orientation x/y/z: 0.001050, 0.001857, 0.001473
+p_cam_orientation x/y/z: 0.000187, 0.010754, 0.007207
+is_out_of_boundary = 0
+uncompensated_dist = 126.505973
+alpha = 0.942186
+cmos signal frame_count = 19
+=============================================================
+frame_count = 17
+start of frame: vs = 18327062628, exp = 100000
+prev_frame_ts = 1832.672071, current_frame_ts = 1832.705396, dt = 0.033325
+first_line_ts = 1832.705396, last_line_ts = 1832.730463
+now is outer moving region
+v_cam_orientation x/y/z: 0.001018, 0.002439, 0.001703
+p_cam_orientation x/y/z: -0.001381, 0.012703, 0.009612
+is_out_of_boundary = 0
+uncompensated_dist = 126.190317
+alpha = 0.941924
+cmos signal frame_count = 20
+=============================================================
+frame_count = 18
+start of frame: vs = 18327395876, exp = 100000
+prev_frame_ts = 1832.705396, current_frame_ts = 1832.738721, dt = 0.033325
+first_line_ts = 1832.738721, last_line_ts = 1832.763788
+now is outer moving region
+v_cam_orientation x/y/z: 0.000943, 0.003072, 0.002029
+p_cam_orientation x/y/z: -0.006762, 0.014955, 0.010958
+is_out_of_boundary = 0
+uncompensated_dist = 114.952433
+alpha = 0.940843
+cmos signal frame_count = 21
+=============================================================
+frame_count = 19
+start of frame: vs = 18327729124, exp = 100000
+prev_frame_ts = 1832.738721, current_frame_ts = 1832.772046, dt = 0.033325
+first_line_ts = 1832.772046, last_line_ts = 1832.797112
+now is outer moving region
+v_cam_orientation x/y/z: 0.000641, 0.003773, 0.002396
+p_cam_orientation x/y/z: -0.010828, 0.016925, 0.010833
+is_out_of_boundary = 0
+uncompensated_dist = 108.190487
+alpha = 0.939315
+cmos signal frame_count = 22
+=============================================================
+frame_count = 20
+start of frame: vs = 18328062372, exp = 100000
+prev_frame_ts = 1832.772046, current_frame_ts = 1832.805371, dt = 0.033325
+first_line_ts = 1832.805371, last_line_ts = 1832.830437
+now is outer moving region
+v_cam_orientation x/y/z: 0.000157, 0.004549, 0.002734
+p_cam_orientation x/y/z: -0.011175, 0.016117, 0.011095
+is_out_of_boundary = 0
+uncompensated_dist = 107.987091
+alpha = 0.937848
+cmos signal frame_count = 23
+=============================================================
+frame_count = 21
+start of frame: vs = 18328395620, exp = 100000
+prev_frame_ts = 1832.805371, current_frame_ts = 1832.838695, dt = 0.033325
+first_line_ts = 1832.838695, last_line_ts = 1832.863762
+now is outer moving region
+v_cam_orientation x/y/z: -0.000334, 0.005280, 0.003060
+p_cam_orientation x/y/z: -0.011321, 0.016702, 0.010628
+is_out_of_boundary = 0
+uncompensated_dist = 109.381870
+alpha = 0.936558
+cmos signal frame_count = 24
+=============================================================
+frame_count = 22
+start of frame: vs = 18328728868, exp = 100000
+prev_frame_ts = 1832.838695, current_frame_ts = 1832.872020, dt = 0.033325
+first_line_ts = 1832.872020, last_line_ts = 1832.897087
+now is outer moving region
+v_cam_orientation x/y/z: -0.000807, 0.006024, 0.003349
+p_cam_orientation x/y/z: -0.009135, 0.020655, 0.008715
+is_out_of_boundary = 0
+uncompensated_dist = 117.968310
+alpha = 0.935969
+cmos signal frame_count = 25
+=============================================================
+frame_count = 23
+start of frame: vs = 18329062116, exp = 100000
+prev_frame_ts = 1832.872020, current_frame_ts = 1832.905345, dt = 0.033325
+first_line_ts = 1832.905345, last_line_ts = 1832.930412
+now is outer moving region
+v_cam_orientation x/y/z: -0.001131, 0.006927, 0.003536
+p_cam_orientation x/y/z: -0.006364, 0.026001, 0.007261
+is_out_of_boundary = 0
+uncompensated_dist = 120.887816
+alpha = 0.935625
+=============================================================
+frame_count = 24
+start of frame: vs = 18329395364, exp = 100000
+prev_frame_ts = 1832.905345, current_frame_ts = 1832.938670, dt = 0.033325
+first_line_ts = 1832.938670, last_line_ts = 1832.963736
+now is outer moving region
+v_cam_orientation x/y/z: -0.001295, 0.008042, 0.003641
+p_cam_orientation x/y/z: -0.006406, 0.032586, 0.003963
+is_out_of_boundary = 0
+uncompensated_dist = 115.784099
+alpha = 0.934920
+cmos signal frame_count = 26
+cmos signal frame_count = 27
+=============================================================
+frame_count = 25
+start of frame: vs = 18330061860, exp = 100000
+prev_frame_ts = 1832.938670, current_frame_ts = 1833.005319, dt = 0.066650
+first_line_ts = 1833.005319, last_line_ts = 1833.030386
+now is outer moving region
+v_cam_orientation x/y/z: -0.001487, 0.009452, 0.003552
+p_cam_orientation x/y/z: -0.002413, 0.037283, 0.001566
+is_out_of_boundary = 0
+uncompensated_dist = 120.627499
+alpha = 0.934610
+cmos signal frame_count = 28
+=============================================================
+frame_count = 26
+start of frame: vs = 18330395108, exp = 100000
+prev_frame_ts = 1833.005319, current_frame_ts = 1833.038644, dt = 0.033325
+first_line_ts = 1833.038644, last_line_ts = 1833.063711
+now is outer moving region
+v_cam_orientation x/y/z: -0.001474, 0.011046, 0.003336
+p_cam_orientation x/y/z: 0.001771, 0.038025, 0.000096
+is_out_of_boundary = 0
+uncompensated_dist = 113.957571
+alpha = 0.933820
+cmos signal frame_count = 29
+=============================================================
+frame_count = 27
+start of frame: vs = 18330728356, exp = 100000
+prev_frame_ts = 1833.038644, current_frame_ts = 1833.071969, dt = 0.033325
+first_line_ts = 1833.071969, last_line_ts = 1833.097036
+now is outer moving region
+v_cam_orientation x/y/z: -0.001237, 0.012589, 0.003051
+p_cam_orientation x/y/z: 0.006521, 0.037127, -0.000537
+is_out_of_boundary = 0
+uncompensated_dist = 108.555588
+alpha = 0.932671
+cmos signal frame_count = 30
+=============================================================
+frame_count = 28
+start of frame: vs = 18331061604, exp = 100000
+prev_frame_ts = 1833.071969, current_frame_ts = 1833.105294, dt = 0.033325
+first_line_ts = 1833.105294, last_line_ts = 1833.130360
+now is outer moving region
+v_cam_orientation x/y/z: -0.000764, 0.013971, 0.002743
+p_cam_orientation x/y/z: 0.009161, 0.036672, -0.001126
+is_out_of_boundary = 0
+uncompensated_dist = 111.648048
+alpha = 0.931807
+cmos signal frame_count = 31
+=============================================================
+frame_count = 29
+start of frame: vs = 18331394852, exp = 100000
+prev_frame_ts = 1833.105294, current_frame_ts = 1833.138619, dt = 0.033325
+first_line_ts = 1833.138619, last_line_ts = 1833.163685
+now is outer moving region
+v_cam_orientation x/y/z: -0.000209, 0.015215, 0.002408
+p_cam_orientation x/y/z: 0.007282, 0.040321, -0.002162
+is_out_of_boundary = 0
+uncompensated_dist = 117.255638
+alpha = 0.931403
+cmos signal frame_count = 32
+=============================================================
+frame_count = 30
+start of frame: vs = 18331728100, exp = 100000
+prev_frame_ts = 1833.138619, current_frame_ts = 1833.171943, dt = 0.033325
+first_line_ts = 1833.171943, last_line_ts = 1833.197010
+now is outer moving region
+v_cam_orientation x/y/z: 0.000177, 0.016586, 0.002024
+p_cam_orientation x/y/z: 0.004702, 0.046088, -0.003070
+is_out_of_boundary = 0
+uncompensated_dist = 118.089329
+alpha = 0.931080
+cmos signal frame_count = 33
+=============================================================
+frame_count = 31
+start of frame: vs = 18332061348, exp = 100000
+prev_frame_ts = 1833.171943, current_frame_ts = 1833.205268, dt = 0.033325
+first_line_ts = 1833.205268, last_line_ts = 1833.230335
+now is outer moving region
+v_cam_orientation x/y/z: 0.000378, 0.018226, 0.001607
+p_cam_orientation x/y/z: 0.004586, 0.049918, -0.002613
+is_out_of_boundary = 0
+uncompensated_dist = 113.750045
+alpha = 0.930452
+cmos signal frame_count = 34
+=============================================================
+frame_count = 32
+start of frame: vs = 18332394596, exp = 100000
+prev_frame_ts = 1833.205268, current_frame_ts = 1833.238593, dt = 0.033325
+first_line_ts = 1833.238593, last_line_ts = 1833.263660
+now is outer moving region
+v_cam_orientation x/y/z: 0.000567, 0.020008, 0.001246
+p_cam_orientation x/y/z: 0.006435, 0.050577, -0.001447
+is_out_of_boundary = 0
+uncompensated_dist = 112.523024
+alpha = 0.929764
+cmos signal frame_count = 35
+=============================================================
+frame_count = 33
+start of frame: vs = 18332727844, exp = 100000
+prev_frame_ts = 1833.238593, current_frame_ts = 1833.271918, dt = 0.033325
+first_line_ts = 1833.271918, last_line_ts = 1833.296984
+now is outer moving region
+v_cam_orientation x/y/z: 0.000882, 0.021713, 0.000987
+p_cam_orientation x/y/z: 0.006642, 0.049392, -0.001270
+is_out_of_boundary = 0
+uncompensated_dist = 118.679367
+alpha = 0.929567
+cmos signal frame_count = 36
+=============================================================
+frame_count = 34
+start of frame: vs = 18333061092, exp = 100000
+prev_frame_ts = 1833.271918, current_frame_ts = 1833.305243, dt = 0.033325
+first_line_ts = 1833.305243, last_line_ts = 1833.330309
+now is outer moving region
+v_cam_orientation x/y/z: 0.001213, 0.023215, 0.000765
+p_cam_orientation x/y/z: 0.000487, 0.052440, -0.004435
+is_out_of_boundary = 0
+uncompensated_dist = 117.594406
+alpha = 0.929299
+cmos signal frame_count = 37
+=============================================================
+frame_count = 35
+start of frame: vs = 18333394340, exp = 100000
+prev_frame_ts = 1833.305243, current_frame_ts = 1833.338567, dt = 0.033325
+first_line_ts = 1833.338567, last_line_ts = 1833.363634
+now is outer moving region
+v_cam_orientation x/y/z: 0.001151, 0.024785, 0.000367
+p_cam_orientation x/y/z: -0.001904, 0.055916, -0.005845
+is_out_of_boundary = 0
+uncompensated_dist = 111.342985
+alpha = 0.928582
+cmos signal frame_count = 38
+=============================================================
+frame_count = 36
+start of frame: vs = 18333727588, exp = 100000
+prev_frame_ts = 1833.338567, current_frame_ts = 1833.371892, dt = 0.033325
+first_line_ts = 1833.371892, last_line_ts = 1833.396959
+now is outer moving region
+v_cam_orientation x/y/z: 0.000929, 0.026458, -0.000098
+p_cam_orientation x/y/z: -0.001189, 0.056669, -0.006581
+is_out_of_boundary = 0
+uncompensated_dist = 113.312801
+alpha = 0.928046
+cmos signal frame_count = 39
+=============================================================
+frame_count = 37
+start of frame: vs = 18334060836, exp = 100000
+prev_frame_ts = 1833.371892, current_frame_ts = 1833.405217, dt = 0.033325
+first_line_ts = 1833.405217, last_line_ts = 1833.430284
+now is outer moving region
+v_cam_orientation x/y/z: 0.000769, 0.028052, -0.000579
+p_cam_orientation x/y/z: -0.001127, 0.053162, -0.007704
+is_out_of_boundary = 0
+uncompensated_dist = 115.106959
+alpha = 0.927671
+cmos signal frame_count = 40
+=============================================================
+frame_count = 38
+start of frame: vs = 18334394084, exp = 100000
+prev_frame_ts = 1833.405217, current_frame_ts = 1833.438542, dt = 0.033325
+first_line_ts = 1833.438542, last_line_ts = 1833.463608
+now is outer moving region
+v_cam_orientation x/y/z: 0.000631, 0.029305, -0.001090
+p_cam_orientation x/y/z: -0.005701, 0.048693, -0.010007
+is_out_of_boundary = 0
+uncompensated_dist = 106.824529
+alpha = 0.926700
+cmos signal frame_count = 41
+=============================================================
+frame_count = 39
+start of frame: vs = 18334727332, exp = 100000
+prev_frame_ts = 1833.438542, current_frame_ts = 1833.471867, dt = 0.033325
+first_line_ts = 1833.471867, last_line_ts = 1833.496933
+now is outer moving region
+v_cam_orientation x/y/z: 0.000206, 0.030183, -0.001712
+p_cam_orientation x/y/z: -0.010857, 0.049291, -0.011826
+is_out_of_boundary = 0
+uncompensated_dist = 96.518624
+alpha = 0.925014
+cmos signal frame_count = 42
+=============================================================
+frame_count = 40
+start of frame: vs = 18335060580, exp = 100000
+prev_frame_ts = 1833.471867, current_frame_ts = 1833.505191, dt = 0.033325
+first_line_ts = 1833.505191, last_line_ts = 1833.530258
+now is outer moving region
+v_cam_orientation x/y/z: -0.000526, 0.031033, -0.002394
+p_cam_orientation x/y/z: -0.013309, 0.054112, -0.012537
+is_out_of_boundary = 0
+uncompensated_dist = 91.732453
+alpha = 0.923059
+cmos signal frame_count = 43
+=============================================================
+frame_count = 41
+start of frame: vs = 18335393828, exp = 100000
+prev_frame_ts = 1833.505191, current_frame_ts = 1833.538516, dt = 0.033325
+first_line_ts = 1833.538516, last_line_ts = 1833.563583
+now is outer moving region
+v_cam_orientation x/y/z: -0.001311, 0.032112, -0.003043
+p_cam_orientation x/y/z: -0.012130, 0.058060, -0.012067
+is_out_of_boundary = 0
+uncompensated_dist = 95.638021
+alpha = 0.921490
+cmos signal frame_count = 44
+=============================================================
+frame_count = 42
+start of frame: vs = 18335727076, exp = 100000
+prev_frame_ts = 1833.538516, current_frame_ts = 1833.571841, dt = 0.033325
+first_line_ts = 1833.571841, last_line_ts = 1833.596908
+now is outer moving region
+v_cam_orientation x/y/z: -0.001913, 0.033352, -0.003590
+p_cam_orientation x/y/z: -0.007409, 0.057896, -0.010539
+is_out_of_boundary = 0
+uncompensated_dist = 108.577159
+alpha = 0.920958
+cmos signal frame_count = 45
+=============================================================
+frame_count = 43
+start of frame: vs = 18336060324, exp = 100000
+prev_frame_ts = 1833.571841, current_frame_ts = 1833.605166, dt = 0.033325
+first_line_ts = 1833.605166, last_line_ts = 1833.630232
+now is outer moving region
+v_cam_orientation x/y/z: -0.002168, 0.034481, -0.003993
+p_cam_orientation x/y/z: -0.003728, 0.054641, -0.009311
+is_out_of_boundary = 0
+uncompensated_dist = 119.501479
+alpha = 0.921262
+cmos signal frame_count = 46
+=============================================================
+frame_count = 44
+start of frame: vs = 18336393572, exp = 100000
+prev_frame_ts = 1833.605166, current_frame_ts = 1833.638491, dt = 0.033325
+first_line_ts = 1833.638491, last_line_ts = 1833.663557
+now is outer moving region
+v_cam_orientation x/y/z: -0.002203, 0.035324, -0.004302
+p_cam_orientation x/y/z: -0.005977, 0.052978, -0.009918
+is_out_of_boundary = 0
+uncompensated_dist = 115.784749
+alpha = 0.921276
+cmos signal frame_count = 47
+=============================================================
+frame_count = 45
+start of frame: vs = 18336726820, exp = 100000
+prev_frame_ts = 1833.638491, current_frame_ts = 1833.671815, dt = 0.033325
+first_line_ts = 1833.671815, last_line_ts = 1833.696882
+now is outer moving region
+v_cam_orientation x/y/z: -0.002395, 0.036017, -0.004641
+p_cam_orientation x/y/z: -0.009618, 0.053050, -0.011448
+is_out_of_boundary = 0
+uncompensated_dist = 108.103410
+alpha = 0.920720
+cmos signal frame_count = 48
+=============================================================
+frame_count = 46
+start of frame: vs = 18337060068, exp = 100000
+prev_frame_ts = 1833.671815, current_frame_ts = 1833.705140, dt = 0.033325
+first_line_ts = 1833.705140, last_line_ts = 1833.730207
+now is outer moving region
+v_cam_orientation x/y/z: -0.002785, 0.036664, -0.005056
+p_cam_orientation x/y/z: -0.009038, 0.051392, -0.011748
+is_out_of_boundary = 0
+uncompensated_dist = 110.962118
+alpha = 0.920403
+cmos signal frame_count = 49
+=============================================================
+frame_count = 47
+start of frame: vs = 18337393316, exp = 100000
+prev_frame_ts = 1833.705140, current_frame_ts = 1833.738465, dt = 0.033325
+first_line_ts = 1833.738465, last_line_ts = 1833.763532
+now is outer moving region
+v_cam_orientation x/y/z: -0.003081, 0.037139, -0.005457
+p_cam_orientation x/y/z: -0.008113, 0.048494, -0.011083
+is_out_of_boundary = 0
+uncompensated_dist = 115.599327
+alpha = 0.920446
+cmos signal frame_count = 50
+=============================================================
+frame_count = 48
+start of frame: vs = 18337726564, exp = 100000
+prev_frame_ts = 1833.738465, current_frame_ts = 1833.771790, dt = 0.033325
+first_line_ts = 1833.771790, last_line_ts = 1833.796856
+now is outer moving region
+v_cam_orientation x/y/z: -0.003318, 0.037370, -0.005798
+p_cam_orientation x/y/z: -0.010680, 0.046284, -0.011319
+is_out_of_boundary = 0
+uncompensated_dist = 111.969834
+alpha = 0.920218
+cmos signal frame_count = 51
+=============================================================
+frame_count = 49
+start of frame: vs = 18338059812, exp = 100000
+prev_frame_ts = 1833.771790, current_frame_ts = 1833.805115, dt = 0.033325
+first_line_ts = 1833.805115, last_line_ts = 1833.830181
+now is outer moving region
+v_cam_orientation x/y/z: -0.003783, 0.037436, -0.006154
+p_cam_orientation x/y/z: -0.013324, 0.045625, -0.010208
+is_out_of_boundary = 0
+uncompensated_dist = 109.331577
+alpha = 0.919805
+cmos signal frame_count = 52
+=============================================================
+frame_count = 50
+start of frame: vs = 18338393060, exp = 100000
+prev_frame_ts = 1833.805115, current_frame_ts = 1833.838439, dt = 0.033325
+first_line_ts = 1833.838439, last_line_ts = 1833.863506
+now is outer moving region
+v_cam_orientation x/y/z: -0.004408, 0.037468, -0.006417
+p_cam_orientation x/y/z: -0.006925, 0.044291, -0.006636
+is_out_of_boundary = 0
+uncompensated_dist = 122.951977
+alpha = 0.920423
+cmos signal frame_count = 53
+=============================================================
+frame_count = 51
+start of frame: vs = 18338726308, exp = 100000
+prev_frame_ts = 1833.838439, current_frame_ts = 1833.871764, dt = 0.033325
+first_line_ts = 1833.871764, last_line_ts = 1833.896831
+now is outer moving region
+v_cam_orientation x/y/z: -0.004486, 0.037412, -0.006399
+p_cam_orientation x/y/z: 0.000059, 0.042916, -0.003393
+is_out_of_boundary = 0
+uncompensated_dist = 115.909086
+alpha = 0.920487
+cmos signal frame_count = 54
+=============================================================
+frame_count = 52
+start of frame: vs = 18339059556, exp = 100000
+prev_frame_ts = 1833.871764, current_frame_ts = 1833.905089, dt = 0.033325
+first_line_ts = 1833.905089, last_line_ts = 1833.930156
+now is outer moving region
+v_cam_orientation x/y/z: -0.004049, 0.037257, -0.006144
+p_cam_orientation x/y/z: 0.001388, 0.041235, -0.002080
+is_out_of_boundary = 0
+uncompensated_dist = 123.541001
+alpha = 0.921114
+cmos signal frame_count = 55
+=============================================================
+frame_count = 53
+start of frame: vs = 18339392804, exp = 100000
+prev_frame_ts = 1833.905089, current_frame_ts = 1833.938414, dt = 0.033325
+first_line_ts = 1833.938414, last_line_ts = 1833.963480
+now is outer moving region
+v_cam_orientation x/y/z: -0.003627, 0.036974, -0.005824
+p_cam_orientation x/y/z: -0.002243, 0.041242, -0.003436
+is_out_of_boundary = 0
+uncompensated_dist = 132.363489
+alpha = 0.922363
+cmos signal frame_count = 56
+=============================================================
+frame_count = 54
+start of frame: vs = 18339726052, exp = 100000
+prev_frame_ts = 1833.938414, current_frame_ts = 1833.971739, dt = 0.033325
+first_line_ts = 1833.971739, last_line_ts = 1833.996805
+now is outer moving region
+v_cam_orientation x/y/z: -0.003523, 0.036684, -0.005628
+p_cam_orientation x/y/z: -0.004483, 0.043259, -0.005211
+is_out_of_boundary = 0
+uncompensated_dist = 129.458708
+alpha = 0.923335
+cmos signal frame_count = 57
+=============================================================
+frame_count = 55
+start of frame: vs = 18340059300, exp = 100000
+prev_frame_ts = 1833.971739, current_frame_ts = 1834.005063, dt = 0.033325
+first_line_ts = 1834.005063, last_line_ts = 1834.030130
+now is outer moving region
+v_cam_orientation x/y/z: -0.003485, 0.036508, -0.005553
+p_cam_orientation x/y/z: -0.001832, 0.043002, -0.005241
+is_out_of_boundary = 0
+uncompensated_dist = 121.976644
+alpha = 0.923703
+cmos signal frame_count = 58
+=============================================================
+frame_count = 56
+start of frame: vs = 18340392548, exp = 100000
+prev_frame_ts = 1834.005063, current_frame_ts = 1834.038388, dt = 0.033325
+first_line_ts = 1834.038388, last_line_ts = 1834.063455
+now is outer moving region
+v_cam_orientation x/y/z: -0.003196, 0.036275, -0.005484
+p_cam_orientation x/y/z: 0.001862, 0.040743, -0.004813
+is_out_of_boundary = 0
+uncompensated_dist = 125.187804
+alpha = 0.924291
+cmos signal frame_count = 59
+=============================================================
+frame_count = 57
+start of frame: vs = 18340725796, exp = 100000
+prev_frame_ts = 1834.038388, current_frame_ts = 1834.071713, dt = 0.033325
+first_line_ts = 1834.071713, last_line_ts = 1834.096780
+now is outer moving region
+v_cam_orientation x/y/z: -0.002674, 0.035833, -0.005407
+p_cam_orientation x/y/z: -0.000896, 0.038036, -0.006181
+is_out_of_boundary = 0
+uncompensated_dist = 137.020765
+alpha = 0.925577
+cmos signal frame_count = 60
+=============================================================
+frame_count = 58
+start of frame: vs = 18341059044, exp = 100000
+prev_frame_ts = 1834.071713, current_frame_ts = 1834.105038, dt = 0.033325
+first_line_ts = 1834.105038, last_line_ts = 1834.130104
+now is outer moving region
+v_cam_orientation x/y/z: -0.002435, 0.035138, -0.005452
+p_cam_orientation x/y/z: -0.010485, 0.037805, -0.009087
+is_out_of_boundary = 0
+uncompensated_dist = 114.566926
+alpha = 0.925284
+cmos signal frame_count = 61
+=============================================================
+frame_count = 59
+start of frame: vs = 18341392292, exp = 100000
+prev_frame_ts = 1834.105038, current_frame_ts = 1834.138363, dt = 0.033325
+first_line_ts = 1834.138363, last_line_ts = 1834.163429
+now is outer moving region
+v_cam_orientation x/y/z: -0.002965, 0.034350, -0.005716
+p_cam_orientation x/y/z: -0.012486, 0.039793, -0.010215
+is_out_of_boundary = 0
+uncompensated_dist = 109.862280
+alpha = 0.924658
+cmos signal frame_count = 62
+=============================================================
+frame_count = 60
+start of frame: vs = 18341725540, exp = 100000
+prev_frame_ts = 1834.138363, current_frame_ts = 1834.171687, dt = 0.033325
+first_line_ts = 1834.171687, last_line_ts = 1834.196754
+now is outer moving region
+v_cam_orientation x/y/z: -0.003637, 0.033626, -0.006046
+p_cam_orientation x/y/z: -0.005221, 0.040764, -0.008470
+is_out_of_boundary = 0
+uncompensated_dist = 126.989648
+alpha = 0.925332
+cmos signal frame_count = 63
+=============================================================
+frame_count = 61
+start of frame: vs = 18342058788, exp = 100000
+prev_frame_ts = 1834.171687, current_frame_ts = 1834.205012, dt = 0.033325
+first_line_ts = 1834.205012, last_line_ts = 1834.230079
+now is outer moving region
+v_cam_orientation x/y/z: -0.003770, 0.032880, -0.006228
+p_cam_orientation x/y/z: -0.002989, 0.039971, -0.007165
+is_out_of_boundary = 0
+uncompensated_dist = 133.138259
+alpha = 0.926427
+cmos signal frame_count = 64
+=============================================================
+frame_count = 62
+start of frame: vs = 18342392036, exp = 100000
+prev_frame_ts = 1834.205012, current_frame_ts = 1834.238337, dt = 0.033325
+first_line_ts = 1834.238337, last_line_ts = 1834.263404
+now is outer moving region
+v_cam_orientation x/y/z: -0.003795, 0.031998, -0.006316
+p_cam_orientation x/y/z: -0.012645, 0.037432, -0.008468
+is_out_of_boundary = 0
+uncompensated_dist = 113.421074
+alpha = 0.926007
+cmos signal frame_count = 65
+=============================================================
+frame_count = 63
+start of frame: vs = 18342725284, exp = 100000
+prev_frame_ts = 1834.238337, current_frame_ts = 1834.271662, dt = 0.033325
+first_line_ts = 1834.271662, last_line_ts = 1834.296728
+now is outer moving region
+v_cam_orientation x/y/z: -0.004599, 0.030871, -0.006501
+p_cam_orientation x/y/z: -0.016026, 0.033453, -0.008622
+is_out_of_boundary = 0
+uncompensated_dist = 109.315274
+alpha = 0.925305
+cmos signal frame_count = 66
+=============================================================
+frame_count = 64
+start of frame: vs = 18343058532, exp = 100000
+prev_frame_ts = 1834.271662, current_frame_ts = 1834.304987, dt = 0.033325
+first_line_ts = 1834.304987, last_line_ts = 1834.330053
+now is outer moving region
+v_cam_orientation x/y/z: -0.005639, 0.029410, -0.006679
+p_cam_orientation x/y/z: -0.003074, 0.026888, -0.005926
+is_out_of_boundary = 0
+uncompensated_dist = 111.588611
+alpha = 0.924805
+cmos signal frame_count = 67
+=============================================================
+frame_count = 65
+start of frame: vs = 18343391780, exp = 100000
+prev_frame_ts = 1834.304987, current_frame_ts = 1834.338311, dt = 0.033325
+first_line_ts = 1834.338311, last_line_ts = 1834.363378
+now is outer moving region
+v_cam_orientation x/y/z: -0.005667, 0.027469, -0.006639
+p_cam_orientation x/y/z: 0.005454, 0.019994, -0.005832
+is_out_of_boundary = 0
+uncompensated_dist = 105.803111
+alpha = 0.923902
+cmos signal frame_count = 68
+=============================================================
+frame_count = 66
+start of frame: vs = 18343725028, exp = 100000
+prev_frame_ts = 1834.338311, current_frame_ts = 1834.371636, dt = 0.033325
+first_line_ts = 1834.371636, last_line_ts = 1834.396703
+now is outer moving region
+v_cam_orientation x/y/z: -0.005042, 0.025093, -0.006586
+p_cam_orientation x/y/z: 0.004365, 0.011398, -0.008045
+is_out_of_boundary = 0
+uncompensated_dist = 111.843392
+alpha = 0.923492
+cmos signal frame_count = 69
+=============================================================
+frame_count = 67
+start of frame: vs = 18344058276, exp = 100000
+prev_frame_ts = 1834.371636, current_frame_ts = 1834.404961, dt = 0.033325
+first_line_ts = 1834.404961, last_line_ts = 1834.430028
+now is outer moving region
+v_cam_orientation x/y/z: -0.004534, 0.022231, -0.006697
+p_cam_orientation x/y/z: -0.001558, -0.001173, -0.010621
+is_out_of_boundary = 0
+uncompensated_dist = 121.999898
+alpha = 0.923854
+cmos signal frame_count = 70
+=============================================================
+frame_count = 68
+start of frame: vs = 18344391524, exp = 100000
+prev_frame_ts = 1834.404961, current_frame_ts = 1834.438286, dt = 0.033325
+first_line_ts = 1834.438286, last_line_ts = 1834.463352
+now is outer moving region
+v_cam_orientation x/y/z: -0.004488, 0.018675, -0.006985
+p_cam_orientation x/y/z: -0.009818, -0.018601, -0.012451
+is_out_of_boundary = 0
+uncompensated_dist = 114.932710
+alpha = 0.923675
+cmos signal frame_count = 71
+=============================================================
+frame_count = 69
+start of frame: vs = 18344724772, exp = 100000
+prev_frame_ts = 1834.438286, current_frame_ts = 1834.471611, dt = 0.033325
+first_line_ts = 1834.471611, last_line_ts = 1834.496677
+now is outer moving region
+v_cam_orientation x/y/z: -0.004986, 0.014146, -0.007385
+p_cam_orientation x/y/z: -0.015227, -0.037292, -0.013217
+is_out_of_boundary = 0
+uncompensated_dist = 86.343960
+alpha = 0.921387
+cmos signal frame_count = 72
+=============================================================
+frame_count = 70
+start of frame: vs = 18345058020, exp = 100000
+prev_frame_ts = 1834.471611, current_frame_ts = 1834.504935, dt = 0.033325
+first_line_ts = 1834.504935, last_line_ts = 1834.530002
+now is outer moving region
+v_cam_orientation x/y/z: -0.005788, 0.008623, -0.007824
+p_cam_orientation x/y/z: -0.019573, -0.057022, -0.013508
+is_out_of_boundary = 0
+uncompensated_dist = 57.615305
+alpha = 0.917086
+cmos signal frame_count = 73
+=============================================================
+frame_count = 71
+start of frame: vs = 18345391268, exp = 100000
+prev_frame_ts = 1834.504935, current_frame_ts = 1834.538260, dt = 0.033325
+first_line_ts = 1834.538260, last_line_ts = 1834.563327
+now is outer moving region
+v_cam_orientation x/y/z: -0.006853, 0.002127, -0.008286
+p_cam_orientation x/y/z: -0.027761, -0.075329, -0.014877
+is_out_of_boundary = 0
+uncompensated_dist = 36.125512
+alpha = 0.911407
+cmos signal frame_count = 74
+=============================================================
+frame_count = 72
+start of frame: vs = 18345724516, exp = 100000
+prev_frame_ts = 1834.538260, current_frame_ts = 1834.571585, dt = 0.033325
+first_line_ts = 1834.571585, last_line_ts = 1834.596652
+now is outer moving region
+v_cam_orientation x/y/z: -0.008435, -0.005160, -0.008843
+p_cam_orientation x/y/z: -0.040548, -0.092967, -0.015954
+is_out_of_boundary = 0
+uncompensated_dist = 8.035383
+alpha = 0.903932
+cmos signal frame_count = 75
+=============================================================
+frame_count = 73
+start of frame: vs = 18346057764, exp = 100000
+prev_frame_ts = 1834.571585, current_frame_ts = 1834.604910, dt = 0.033325
+first_line_ts = 1834.604910, last_line_ts = 1834.629976
+now is outer moving region
+v_cam_orientation x/y/z: -0.017050, -0.024074, -0.008072
+p_cam_orientation x/y/z: -0.049079, -0.111938, -0.014437
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.896235
+cmos signal frame_count = 76
+=============================================================
+frame_count = 74
+start of frame: vs = 18346391012, exp = 100000
+prev_frame_ts = 1834.604910, current_frame_ts = 1834.638235, dt = 0.033325
+first_line_ts = 1834.638235, last_line_ts = 1834.663301
+now is outer moving region
+v_cam_orientation x/y/z: -0.012302, -0.042146, -0.004186
+p_cam_orientation x/y/z: -0.044179, -0.129979, -0.010984
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.888924
+cmos signal frame_count = 77
+=============================================================
+frame_count = 75
+start of frame: vs = 18346724260, exp = 100000
+prev_frame_ts = 1834.638235, current_frame_ts = 1834.671559, dt = 0.033325
+first_line_ts = 1834.671559, last_line_ts = 1834.696626
+now is outer moving region
+v_cam_orientation x/y/z: -0.014407, -0.051476, -0.004456
+p_cam_orientation x/y/z: -0.035923, -0.144355, -0.009630
+is_out_of_boundary = 0
+uncompensated_dist = 0.597947
+alpha = 0.882022
+cmos signal frame_count = 78
+=============================================================
+frame_count = 76
+start of frame: vs = 18347057508, exp = 100000
+prev_frame_ts = 1834.671559, current_frame_ts = 1834.704884, dt = 0.033325
+first_line_ts = 1834.704884, last_line_ts = 1834.729951
+now is outer moving region
+v_cam_orientation x/y/z: -0.013499, -0.061942, -0.005912
+p_cam_orientation x/y/z: -0.034952, -0.154816, -0.011180
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.875421
+cmos signal frame_count = 79
+=============================================================
+frame_count = 77
+start of frame: vs = 18347390756, exp = 100000
+prev_frame_ts = 1834.704884, current_frame_ts = 1834.738209, dt = 0.033325
+first_line_ts = 1834.738209, last_line_ts = 1834.763276
+now is outer moving region
+v_cam_orientation x/y/z: -0.014691, -0.071809, -0.006205
+p_cam_orientation x/y/z: -0.037802, -0.163436, -0.013101
+is_out_of_boundary = 0
+uncompensated_dist = 1.949893
+alpha = 0.869294
+cmos signal frame_count = 80
+=============================================================
+frame_count = 78
+start of frame: vs = 18347724004, exp = 100000
+prev_frame_ts = 1834.738209, current_frame_ts = 1834.771534, dt = 0.033325
+first_line_ts = 1834.771534, last_line_ts = 1834.796600
+now is outer moving region
+v_cam_orientation x/y/z: -0.015968, -0.081721, -0.006617
+p_cam_orientation x/y/z: -0.035497, -0.172466, -0.014048
+is_out_of_boundary = 0
+uncompensated_dist = 4.823653
+alpha = 0.863687
+cmos signal frame_count = 81
+=============================================================
+frame_count = 79
+start of frame: vs = 18348057252, exp = 100000
+prev_frame_ts = 1834.771534, current_frame_ts = 1834.804859, dt = 0.033325
+first_line_ts = 1834.804859, last_line_ts = 1834.829925
+now is outer moving region
+v_cam_orientation x/y/z: -0.016938, -0.091697, -0.007093
+p_cam_orientation x/y/z: -0.032095, -0.181637, -0.015299
+is_out_of_boundary = 0
+uncompensated_dist = 8.110299
+alpha = 0.858603
+cmos signal frame_count = 82
+=============================================================
+frame_count = 80
+start of frame: vs = 18348390500, exp = 100000
+prev_frame_ts = 1834.804859, current_frame_ts = 1834.838183, dt = 0.033325
+first_line_ts = 1834.838183, last_line_ts = 1834.863250
+now is outer moving region
+v_cam_orientation x/y/z: -0.017532, -0.101709, -0.007661
+p_cam_orientation x/y/z: -0.035406, -0.189797, -0.018485
+is_out_of_boundary = 0
+uncompensated_dist = 10.002701
+alpha = 0.853914
+cmos signal frame_count = 83
+=============================================================
+frame_count = 81
+start of frame: vs = 18348723748, exp = 100000
+prev_frame_ts = 1834.838183, current_frame_ts = 1834.871508, dt = 0.033325
+first_line_ts = 1834.871508, last_line_ts = 1834.896575
+now is outer moving region
+v_cam_orientation x/y/z: -0.018300, -0.111643, -0.008455
+p_cam_orientation x/y/z: -0.040801, -0.197959, -0.021288
+is_out_of_boundary = 0
+uncompensated_dist = 11.047897
+alpha = 0.849537
+cmos signal frame_count = 84
+=============================================================
+frame_count = 82
+start of frame: vs = 18349056996, exp = 100000
+prev_frame_ts = 1834.871508, current_frame_ts = 1834.904833, dt = 0.033325
+first_line_ts = 1834.904833, last_line_ts = 1834.929900
+now is outer moving region
+v_cam_orientation x/y/z: -0.019375, -0.121457, -0.009403
+p_cam_orientation x/y/z: -0.040775, -0.205858, -0.022210
+is_out_of_boundary = 0
+uncompensated_dist = 15.937999
+alpha = 0.845740
+cmos signal frame_count = 85
+=============================================================
+frame_count = 83
+start of frame: vs = 18349390244, exp = 100000
+prev_frame_ts = 1834.904833, current_frame_ts = 1834.938158, dt = 0.033325
+first_line_ts = 1834.938158, last_line_ts = 1834.963224
+now is outer moving region
+v_cam_orientation x/y/z: -0.020242, -0.131110, -0.010302
+p_cam_orientation x/y/z: -0.039333, -0.212492, -0.023021
+is_out_of_boundary = 0
+uncompensated_dist = 23.764405
+alpha = 0.842714
+cmos signal frame_count = 86
+=============================================================
+frame_count = 84
+start of frame: vs = 18349723492, exp = 100000
+prev_frame_ts = 1834.938158, current_frame_ts = 1834.971483, dt = 0.033325
+first_line_ts = 1834.971483, last_line_ts = 1834.996549
+now is outer moving region
+v_cam_orientation x/y/z: -0.020818, -0.140466, -0.011140
+p_cam_orientation x/y/z: -0.038057, -0.220352, -0.024390
+is_out_of_boundary = 0
+uncompensated_dist = 27.124596
+alpha = 0.840087
+cmos signal frame_count = 87
+=============================================================
+frame_count = 85
+start of frame: vs = 18350056740, exp = 100000
+prev_frame_ts = 1834.971483, current_frame_ts = 1835.004807, dt = 0.033325
+first_line_ts = 1835.004807, last_line_ts = 1835.029874
+now is outer moving region
+v_cam_orientation x/y/z: -0.021255, -0.149621, -0.012009
+p_cam_orientation x/y/z: -0.037995, -0.232932, -0.025160
+is_out_of_boundary = 0
+uncompensated_dist = 18.711566
+alpha = 0.836969
+cmos signal frame_count = 88
+=============================================================
+frame_count = 86
+start of frame: vs = 18350389988, exp = 100000
+prev_frame_ts = 1835.004807, current_frame_ts = 1835.038132, dt = 0.033325
+first_line_ts = 1835.038132, last_line_ts = 1835.063199
+now is outer moving region
+v_cam_orientation x/y/z: -0.021122, -0.167231, -0.011990
+p_cam_orientation x/y/z: -0.037620, -0.250539, -0.025210
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.832620
+cmos signal frame_count = 89
+=============================================================
+frame_count = 87
+start of frame: vs = 18350723236, exp = 100000
+prev_frame_ts = 1835.038132, current_frame_ts = 1835.071457, dt = 0.033325
+first_line_ts = 1835.071457, last_line_ts = 1835.096524
+now is outer moving region
+v_cam_orientation x/y/z: -0.019502, -0.187450, -0.012519
+p_cam_orientation x/y/z: -0.035692, -0.270735, -0.025950
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.828489
+cmos signal frame_count = 90
+=============================================================
+frame_count = 88
+start of frame: vs = 18351056484, exp = 100000
+prev_frame_ts = 1835.071457, current_frame_ts = 1835.104782, dt = 0.033325
+first_line_ts = 1835.104782, last_line_ts = 1835.129848
+now is outer moving region
+v_cam_orientation x/y/z: -0.015656, -0.207443, -0.014291
+p_cam_orientation x/y/z: -0.031484, -0.290675, -0.028133
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.824565
+cmos signal frame_count = 91
+=============================================================
+frame_count = 89
+start of frame: vs = 18351389732, exp = 100000
+prev_frame_ts = 1835.104782, current_frame_ts = 1835.138107, dt = 0.033325
+first_line_ts = 1835.138107, last_line_ts = 1835.163173
+now is outer moving region
+v_cam_orientation x/y/z: -0.015149, -0.220053, -0.015402
+p_cam_orientation x/y/z: -0.026452, -0.308571, -0.031292
+is_out_of_boundary = 0
+uncompensated_dist = 6.883832
+alpha = 0.821347
+cmos signal frame_count = 92
+=============================================================
+frame_count = 90
+start of frame: vs = 18351722980, exp = 100000
+prev_frame_ts = 1835.138107, current_frame_ts = 1835.171431, dt = 0.033325
+first_line_ts = 1835.171431, last_line_ts = 1835.196498
+now is outer moving region
+v_cam_orientation x/y/z: -0.014051, -0.233405, -0.016851
+p_cam_orientation x/y/z: -0.022876, -0.324481, -0.034290
+is_out_of_boundary = 0
+uncompensated_dist = 1.291533
+alpha = 0.817875
+cmos signal frame_count = 93
+=============================================================
+frame_count = 91
+start of frame: vs = 18352056228, exp = 100000
+prev_frame_ts = 1835.171431, current_frame_ts = 1835.204756, dt = 0.033325
+first_line_ts = 1835.204756, last_line_ts = 1835.229823
+now is outer moving region
+v_cam_orientation x/y/z: -0.012596, -0.247178, -0.018565
+p_cam_orientation x/y/z: -0.017912, -0.337605, -0.034866
+is_out_of_boundary = 0
+uncompensated_dist = 4.714895
+alpha = 0.814830
+cmos signal frame_count = 94
+=============================================================
+frame_count = 92
+start of frame: vs = 18352389476, exp = 100000
+prev_frame_ts = 1835.204756, current_frame_ts = 1835.238081, dt = 0.033325
+first_line_ts = 1835.238081, last_line_ts = 1835.263148
+now is outer moving region
+v_cam_orientation x/y/z: -0.010633, -0.260950, -0.020185
+p_cam_orientation x/y/z: -0.011331, -0.349333, -0.032510
+is_out_of_boundary = 0
+uncompensated_dist = 10.061797
+alpha = 0.812334
+cmos signal frame_count = 95
+=============================================================
+frame_count = 93
+start of frame: vs = 18352722724, exp = 100000
+prev_frame_ts = 1835.238081, current_frame_ts = 1835.271406, dt = 0.033325
+first_line_ts = 1835.271406, last_line_ts = 1835.296472
+now is outer moving region
+v_cam_orientation x/y/z: -0.007938, -0.274505, -0.021298
+p_cam_orientation x/y/z: -0.006959, -0.359360, -0.029656
+is_out_of_boundary = 0
+uncompensated_dist = 23.929506
+alpha = 0.810990
+cmos signal frame_count = 96
+=============================================================
+frame_count = 94
+start of frame: vs = 18353055972, exp = 100000
+prev_frame_ts = 1835.271406, current_frame_ts = 1835.304731, dt = 0.033325
+first_line_ts = 1835.304731, last_line_ts = 1835.329797
+now is outer moving region
+v_cam_orientation x/y/z: -0.004927, -0.287590, -0.021902
+p_cam_orientation x/y/z: -0.009562, -0.366693, -0.028446
+is_out_of_boundary = 0
+uncompensated_dist = 37.477840
+alpha = 0.810717
+cmos signal frame_count = 97
+=============================================================
+frame_count = 95
+start of frame: vs = 18353389220, exp = 100000
+prev_frame_ts = 1835.304731, current_frame_ts = 1835.338055, dt = 0.033325
+first_line_ts = 1835.338055, last_line_ts = 1835.363122
+now is outer moving region
+v_cam_orientation x/y/z: -0.002803, -0.299839, -0.022328
+p_cam_orientation x/y/z: -0.013736, -0.374493, -0.027942
+is_out_of_boundary = 0
+uncompensated_dist = 45.427059
+alpha = 0.811046
+cmos signal frame_count = 98
+=============================================================
+frame_count = 96
+start of frame: vs = 18353722468, exp = 100000
+prev_frame_ts = 1835.338055, current_frame_ts = 1835.371380, dt = 0.033325
+first_line_ts = 1835.371380, last_line_ts = 1835.396447
+now is outer moving region
+v_cam_orientation x/y/z: -0.001715, -0.311436, -0.022700
+p_cam_orientation x/y/z: -0.014322, -0.383703, -0.027446
+is_out_of_boundary = 0
+uncompensated_dist = 50.446116
+alpha = 0.811730
+cmos signal frame_count = 99
+=============================================================
+frame_count = 97
+start of frame: vs = 18354055716, exp = 100000
+prev_frame_ts = 1835.371380, current_frame_ts = 1835.404705, dt = 0.033325
+first_line_ts = 1835.404705, last_line_ts = 1835.429772
+now is outer moving region
+v_cam_orientation x/y/z: -0.000890, -0.322700, -0.023002
+p_cam_orientation x/y/z: -0.012655, -0.394774, -0.027830
+is_out_of_boundary = 0
+uncompensated_dist = 49.197511
+alpha = 0.812288
+cmos signal frame_count = 100
+=============================================================
+frame_count = 98
+start of frame: vs = 18354388964, exp = 100000
+prev_frame_ts = 1835.404705, current_frame_ts = 1835.438030, dt = 0.033325
+first_line_ts = 1835.438030, last_line_ts = 1835.463096
+now is outer moving region
+v_cam_orientation x/y/z: 0.000068, -0.333966, -0.023381
+p_cam_orientation x/y/z: -0.011816, -0.408827, -0.030126
+is_out_of_boundary = 0
+uncompensated_dist = 39.448085
+alpha = 0.812096
+cmos signal frame_count = 101
+=============================================================
+frame_count = 99
+start of frame: vs = 18354722212, exp = 100000
+prev_frame_ts = 1835.438030, current_frame_ts = 1835.471355, dt = 0.033325
+first_line_ts = 1835.471355, last_line_ts = 1835.496421
+now is outer moving region
+v_cam_orientation x/y/z: 0.001021, -0.345734, -0.024121
+p_cam_orientation x/y/z: -0.009267, -0.425399, -0.033594
+is_out_of_boundary = 0
+uncompensated_dist = 25.429810
+alpha = 0.810875
+cmos signal frame_count = 102
+=============================================================
+frame_count = 100
+start of frame: vs = 18355055460, exp = 100000
+prev_frame_ts = 1835.471355, current_frame_ts = 1835.504679, dt = 0.033325
+first_line_ts = 1835.504679, last_line_ts = 1835.529746
+now is outer moving region
+v_cam_orientation x/y/z: 0.002261, -0.358339, -0.025350
+p_cam_orientation x/y/z: -0.005609, -0.443590, -0.036745
+is_out_of_boundary = 0
+uncompensated_dist = 11.749932
+alpha = 0.808701
+cmos signal frame_count = 103
+=============================================================
+frame_count = 101
+start of frame: vs = 18355388708, exp = 100000
+prev_frame_ts = 1835.504679, current_frame_ts = 1835.538004, dt = 0.033325
+first_line_ts = 1835.538004, last_line_ts = 1835.563071
+now is outer moving region
+v_cam_orientation x/y/z: 0.003950, -0.371890, -0.026943
+p_cam_orientation x/y/z: -0.002977, -0.462114, -0.039784
+is_out_of_boundary = 0
+uncompensated_dist = 1.253714
+alpha = 0.805859
+cmos signal frame_count = 104
+=============================================================
+frame_count = 102
+start of frame: vs = 18355721956, exp = 100000
+prev_frame_ts = 1835.538004, current_frame_ts = 1835.571329, dt = 0.033325
+first_line_ts = 1835.571329, last_line_ts = 1835.596396
+now is outer moving region
+v_cam_orientation x/y/z: 0.007707, -0.389414, -0.028099
+p_cam_orientation x/y/z: 0.001194, -0.479591, -0.041437
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.803066
+cmos signal frame_count = 105
+=============================================================
+frame_count = 103
+start of frame: vs = 18356055204, exp = 100000
+prev_frame_ts = 1835.571329, current_frame_ts = 1835.604654, dt = 0.033325
+first_line_ts = 1835.604654, last_line_ts = 1835.629720
+now is outer moving region
+v_cam_orientation x/y/z: 0.010024, -0.404130, -0.030052
+p_cam_orientation x/y/z: 0.005485, -0.495051, -0.042949
+is_out_of_boundary = 0
+uncompensated_dist = 5.609727
+alpha = 0.800828
+cmos signal frame_count = 106
+=============================================================
+frame_count = 104
+start of frame: vs = 18356388452, exp = 100000
+prev_frame_ts = 1835.604654, current_frame_ts = 1835.637979, dt = 0.033325
+first_line_ts = 1835.637979, last_line_ts = 1835.663045
+now is outer moving region
+v_cam_orientation x/y/z: 0.012692, -0.418743, -0.032003
+p_cam_orientation x/y/z: 0.003409, -0.508048, -0.046404
+is_out_of_boundary = 0
+uncompensated_dist = 6.656239
+alpha = 0.798780
+cmos signal frame_count = 107
+=============================================================
+frame_count = 105
+start of frame: vs = 18356721700, exp = 100000
+prev_frame_ts = 1835.637979, current_frame_ts = 1835.671303, dt = 0.033325
+first_line_ts = 1835.671303, last_line_ts = 1835.696370
+now is outer moving region
+v_cam_orientation x/y/z: 0.014518, -0.432797, -0.034237
+p_cam_orientation x/y/z: -0.000623, -0.520621, -0.050043
+is_out_of_boundary = 0
+uncompensated_dist = 6.418103
+alpha = 0.796816
+cmos signal frame_count = 108
+=============================================================
+frame_count = 106
+start of frame: vs = 18357054948, exp = 100000
+prev_frame_ts = 1835.671303, current_frame_ts = 1835.704628, dt = 0.033325
+first_line_ts = 1835.704628, last_line_ts = 1835.729695
+now is outer moving region
+v_cam_orientation x/y/z: 0.015322, -0.446307, -0.036708
+p_cam_orientation x/y/z: -0.000596, -0.533867, -0.052473
+is_out_of_boundary = 0
+uncompensated_dist = 6.607169
+alpha = 0.794965
+cmos signal frame_count = 109
+=============================================================
+frame_count = 107
+start of frame: vs = 18357388196, exp = 100000
+prev_frame_ts = 1835.704628, current_frame_ts = 1835.737953, dt = 0.033325
+first_line_ts = 1835.737953, last_line_ts = 1835.763020
+now is outer moving region
+v_cam_orientation x/y/z: 0.016028, -0.459507, -0.039162
+p_cam_orientation x/y/z: 0.000382, -0.547201, -0.054864
+is_out_of_boundary = 0
+uncompensated_dist = 6.165935
+alpha = 0.793173
+cmos signal frame_count = 110
+=============================================================
+frame_count = 108
+start of frame: vs = 18357721444, exp = 100000
+prev_frame_ts = 1835.737953, current_frame_ts = 1835.771278, dt = 0.033325
+first_line_ts = 1835.771278, last_line_ts = 1835.796344
+now is outer moving region
+v_cam_orientation x/y/z: 0.016816, -0.472469, -0.041584
+p_cam_orientation x/y/z: 0.002831, -0.562169, -0.056954
+is_out_of_boundary = 0
+uncompensated_dist = 2.212275
+alpha = 0.791179
+cmos signal frame_count = 111
+=============================================================
+frame_count = 109
+start of frame: vs = 18358054692, exp = 100000
+prev_frame_ts = 1835.771278, current_frame_ts = 1835.804603, dt = 0.033325
+first_line_ts = 1835.804603, last_line_ts = 1835.829669
+now is outer moving region
+v_cam_orientation x/y/z: 0.020189, -0.488154, -0.043072
+p_cam_orientation x/y/z: 0.006674, -0.577805, -0.058958
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.789120
+cmos signal frame_count = 112
+=============================================================
+frame_count = 110
+start of frame: vs = 18358387940, exp = 100000
+prev_frame_ts = 1835.804603, current_frame_ts = 1835.837927, dt = 0.033325
+first_line_ts = 1835.837927, last_line_ts = 1835.862994
+now is outer moving region
+v_cam_orientation x/y/z: 0.021805, -0.501195, -0.045406
+p_cam_orientation x/y/z: 0.011504, -0.592428, -0.061010
+is_out_of_boundary = 0
+uncompensated_dist = 0.512027
+alpha = 0.787202
+cmos signal frame_count = 113
+=============================================================
+frame_count = 111
+start of frame: vs = 18358721188, exp = 100000
+prev_frame_ts = 1835.837927, current_frame_ts = 1835.871252, dt = 0.033325
+first_line_ts = 1835.871252, last_line_ts = 1835.896319
+now is outer moving region
+v_cam_orientation x/y/z: 0.024000, -0.514031, -0.047690
+p_cam_orientation x/y/z: 0.015605, -0.603841, -0.063348
+is_out_of_boundary = 0
+uncompensated_dist = 5.166910
+alpha = 0.785724
+cmos signal frame_count = 114
+=============================================================
+frame_count = 112
+start of frame: vs = 18359054436, exp = 100000
+prev_frame_ts = 1835.871252, current_frame_ts = 1835.904577, dt = 0.033325
+first_line_ts = 1835.904577, last_line_ts = 1835.929644
+now is outer moving region
+v_cam_orientation x/y/z: 0.026520, -0.526075, -0.049963
+p_cam_orientation x/y/z: 0.018914, -0.611136, -0.066943
+is_out_of_boundary = 0
+uncompensated_dist = 16.436832
+alpha = 0.785156
+cmos signal frame_count = 115
+=============================================================
+frame_count = 113
+start of frame: vs = 18359387684, exp = 100000
+prev_frame_ts = 1835.904577, current_frame_ts = 1835.937902, dt = 0.033325
+first_line_ts = 1835.937902, last_line_ts = 1835.962968
+now is outer moving region
+v_cam_orientation x/y/z: 0.029128, -0.536691, -0.052412
+p_cam_orientation x/y/z: 0.021438, -0.614465, -0.070193
+is_out_of_boundary = 0
+uncompensated_dist = 33.418828
+alpha = 0.785873
+cmos signal frame_count = 116
+=============================================================
+frame_count = 114
+start of frame: vs = 18359720932, exp = 100000
+prev_frame_ts = 1835.937902, current_frame_ts = 1835.971227, dt = 0.033325
+first_line_ts = 1835.971227, last_line_ts = 1835.996293
+now is outer moving region
+v_cam_orientation x/y/z: 0.031683, -0.545421, -0.054921
+p_cam_orientation x/y/z: 0.022808, -0.615121, -0.071699
+is_out_of_boundary = 0
+uncompensated_dist = 52.639338
+alpha = 0.787979
+cmos signal frame_count = 117
+=============================================================
+frame_count = 115
+start of frame: vs = 18360054180, exp = 100000
+prev_frame_ts = 1835.971227, current_frame_ts = 1836.004551, dt = 0.033325
+first_line_ts = 1836.004551, last_line_ts = 1836.029618
+now is outer moving region
+v_cam_orientation x/y/z: 0.033999, -0.552158, -0.057159
+p_cam_orientation x/y/z: 0.023597, -0.614923, -0.072067
+is_out_of_boundary = 0
+uncompensated_dist = 69.305812
+alpha = 0.791214
+cmos signal frame_count = 118
+=============================================================
+frame_count = 116
+start of frame: vs = 18360387428, exp = 100000
+prev_frame_ts = 1836.004551, current_frame_ts = 1836.037876, dt = 0.033325
+first_line_ts = 1836.037876, last_line_ts = 1836.062943
+now is outer moving region
+v_cam_orientation x/y/z: 0.036023, -0.557147, -0.058954
+p_cam_orientation x/y/z: 0.025221, -0.615270, -0.071684
+is_out_of_boundary = 0
+uncompensated_dist = 81.359169
+alpha = 0.795180
+cmos signal frame_count = 119
+=============================================================
+frame_count = 117
+start of frame: vs = 18360720676, exp = 100000
+prev_frame_ts = 1836.037876, current_frame_ts = 1836.071201, dt = 0.033325
+first_line_ts = 1836.071201, last_line_ts = 1836.096268
+now is outer moving region
+v_cam_orientation x/y/z: 0.037944, -0.560811, -0.060268
+p_cam_orientation x/y/z: 0.026754, -0.615586, -0.070670
+is_out_of_boundary = 0
+uncompensated_dist = 90.840858
+alpha = 0.799650
+cmos signal frame_count = 120
+=============================================================
+frame_count = 118
+start of frame: vs = 18361053924, exp = 100000
+prev_frame_ts = 1836.071201, current_frame_ts = 1836.104526, dt = 0.033325
+first_line_ts = 1836.104526, last_line_ts = 1836.129592
+now is outer moving region
+v_cam_orientation x/y/z: 0.039767, -0.563390, -0.061091
+p_cam_orientation x/y/z: 0.027712, -0.613237, -0.069825
+is_out_of_boundary = 0
+uncompensated_dist = 103.868928
+alpha = 0.804861
+cmos signal frame_count = 121
+=============================================================
+frame_count = 119
+start of frame: vs = 18361387172, exp = 100000
+prev_frame_ts = 1836.104526, current_frame_ts = 1836.137851, dt = 0.033325
+first_line_ts = 1836.137851, last_line_ts = 1836.162917
+now is outer moving region
+v_cam_orientation x/y/z: 0.041427, -0.564577, -0.061532
+p_cam_orientation x/y/z: 0.028830, -0.606692, -0.069177
+is_out_of_boundary = 0
+uncompensated_dist = 107.461049
+alpha = 0.810078
+cmos signal frame_count = 122
+=============================================================
+frame_count = 120
+start of frame: vs = 18361720420, exp = 100000
+prev_frame_ts = 1836.137851, current_frame_ts = 1836.171175, dt = 0.033325
+first_line_ts = 1836.171175, last_line_ts = 1836.196242
+now is outer moving region
+v_cam_orientation x/y/z: 0.042940, -0.563854, -0.061665
+p_cam_orientation x/y/z: 0.030266, -0.596403, -0.068361
+is_out_of_boundary = 0
+uncompensated_dist = 107.718400
+alpha = 0.815053
+cmos signal frame_count = 123
+=============================================================
+frame_count = 121
+start of frame: vs = 18362053668, exp = 100000
+prev_frame_ts = 1836.171175, current_frame_ts = 1836.204500, dt = 0.033325
+first_line_ts = 1836.204500, last_line_ts = 1836.229567
+now is outer moving region
+v_cam_orientation x/y/z: 0.044313, -0.560908, -0.061472
+p_cam_orientation x/y/z: 0.031077, -0.582943, -0.067096
+is_out_of_boundary = 0
+uncompensated_dist = 105.176104
+alpha = 0.819592
+cmos signal frame_count = 124
+=============================================================
+frame_count = 122
+start of frame: vs = 18362386916, exp = 100000
+prev_frame_ts = 1836.204500, current_frame_ts = 1836.237825, dt = 0.033325
+first_line_ts = 1836.237825, last_line_ts = 1836.262892
+now is outer moving region
+v_cam_orientation x/y/z: 0.045443, -0.555602, -0.060894
+p_cam_orientation x/y/z: 0.031429, -0.566820, -0.065101
+is_out_of_boundary = 0
+uncompensated_dist = 102.314826
+alpha = 0.823691
+cmos signal frame_count = 125
+=============================================================
+frame_count = 123
+start of frame: vs = 18362720164, exp = 100000
+prev_frame_ts = 1836.237825, current_frame_ts = 1836.271150, dt = 0.033325
+first_line_ts = 1836.271150, last_line_ts = 1836.296216
+now is outer moving region
+v_cam_orientation x/y/z: 0.046371, -0.547918, -0.059889
+p_cam_orientation x/y/z: 0.032520, -0.549603, -0.062572
+is_out_of_boundary = 0
+uncompensated_dist = 101.842494
+alpha = 0.827550
+cmos signal frame_count = 126
+=============================================================
+frame_count = 124
+start of frame: vs = 18363053412, exp = 100000
+prev_frame_ts = 1836.271150, current_frame_ts = 1836.304475, dt = 0.033325
+first_line_ts = 1836.304475, last_line_ts = 1836.329541
+now is outer moving region
+v_cam_orientation x/y/z: 0.047328, -0.538186, -0.058480
+p_cam_orientation x/y/z: 0.033506, -0.532717, -0.059764
+is_out_of_boundary = 0
+uncompensated_dist = 101.442379
+alpha = 0.831187
+cmos signal frame_count = 127
+=============================================================
+frame_count = 125
+start of frame: vs = 18363386660, exp = 100000
+prev_frame_ts = 1836.304475, current_frame_ts = 1836.337799, dt = 0.033325
+first_line_ts = 1836.337799, last_line_ts = 1836.362866
+now is outer moving region
+v_cam_orientation x/y/z: 0.048298, -0.526944, -0.056720
+p_cam_orientation x/y/z: 0.034642, -0.516164, -0.056357
+is_out_of_boundary = 0
+uncompensated_dist = 101.976931
+alpha = 0.834681
+cmos signal frame_count = 128
+=============================================================
+frame_count = 126
+start of frame: vs = 18363719908, exp = 100000
+prev_frame_ts = 1836.337799, current_frame_ts = 1836.371124, dt = 0.033325
+first_line_ts = 1836.371124, last_line_ts = 1836.396191
+now is outer moving region
+v_cam_orientation x/y/z: 0.049269, -0.514609, -0.054594
+p_cam_orientation x/y/z: 0.034560, -0.498389, -0.053601
+is_out_of_boundary = 0
+uncompensated_dist = 98.717987
+alpha = 0.837760
+cmos signal frame_count = 129
+=============================================================
+frame_count = 127
+start of frame: vs = 18364053156, exp = 100000
+prev_frame_ts = 1836.371124, current_frame_ts = 1836.404449, dt = 0.033325
+first_line_ts = 1836.404449, last_line_ts = 1836.429516
+now is outer moving region
+v_cam_orientation x/y/z: 0.049984, -0.501217, -0.052331
+p_cam_orientation x/y/z: 0.034480, -0.479532, -0.051538
+is_out_of_boundary = 0
+uncompensated_dist = 95.170835
+alpha = 0.840421
+cmos signal frame_count = 130
+=============================================================
+frame_count = 128
+start of frame: vs = 18364386404, exp = 100000
+prev_frame_ts = 1836.404449, current_frame_ts = 1836.437774, dt = 0.033325
+first_line_ts = 1836.437774, last_line_ts = 1836.462840
+now is outer moving region
+v_cam_orientation x/y/z: 0.050490, -0.486820, -0.050108
+p_cam_orientation x/y/z: 0.036240, -0.459345, -0.049151
+is_out_of_boundary = 0
+uncompensated_dist = 96.398578
+alpha = 0.843041
+cmos signal frame_count = 131
+=============================================================
+frame_count = 129
+start of frame: vs = 18364719652, exp = 100000
+prev_frame_ts = 1836.437774, current_frame_ts = 1836.471099, dt = 0.033325
+first_line_ts = 1836.471099, last_line_ts = 1836.496165
+now is outer moving region
+v_cam_orientation x/y/z: 0.051156, -0.471410, -0.047849
+p_cam_orientation x/y/z: 0.036402, -0.439024, -0.045747
+is_out_of_boundary = 0
+uncompensated_dist = 94.820987
+alpha = 0.845413
+cmos signal frame_count = 132
+=============================================================
+frame_count = 130
+start of frame: vs = 18365052900, exp = 100000
+prev_frame_ts = 1836.471099, current_frame_ts = 1836.504423, dt = 0.033325
+first_line_ts = 1836.504423, last_line_ts = 1836.529490
+now is outer moving region
+v_cam_orientation x/y/z: 0.051683, -0.455173, -0.045372
+p_cam_orientation x/y/z: 0.032733, -0.419338, -0.040668
+is_out_of_boundary = 0
+uncompensated_dist = 86.773881
+alpha = 0.847070
+cmos signal frame_count = 133
+=============================================================
+frame_count = 131
+start of frame: vs = 18365386148, exp = 100000
+prev_frame_ts = 1836.504423, current_frame_ts = 1836.537748, dt = 0.033325
+first_line_ts = 1836.537748, last_line_ts = 1836.562815
+now is outer moving region
+v_cam_orientation x/y/z: 0.051341, -0.438360, -0.042512
+p_cam_orientation x/y/z: 0.029193, -0.400326, -0.034290
+is_out_of_boundary = 0
+uncompensated_dist = 82.179164
+alpha = 0.848304
+=============================================================
+frame_count = 132
+start of frame: vs = 18365719396, exp = 100000
+prev_frame_ts = 1836.537748, current_frame_ts = 1836.571073, dt = 0.033325
+first_line_ts = 1836.571073, last_line_ts = 1836.596140
+now is outer moving region
+v_cam_orientation x/y/z: 0.050228, -0.421231, -0.039143
+p_cam_orientation x/y/z: 0.029910, -0.380996, -0.029452
+is_out_of_boundary = 0
+uncompensated_dist = 86.762235
+alpha = 0.849815
+cmos signal frame_count = 134
+cmos signal frame_count = 135
+=============================================================
+frame_count = 133
+start of frame: vs = 18366385892, exp = 100000
+prev_frame_ts = 1836.571073, current_frame_ts = 1836.637723, dt = 0.066650
+first_line_ts = 1836.637723, last_line_ts = 1836.662789
+now is outer moving region
+v_cam_orientation x/y/z: 0.049177, -0.403600, -0.035565
+p_cam_orientation x/y/z: 0.032843, -0.363037, -0.026610
+is_out_of_boundary = 0
+uncompensated_dist = 94.582450
+alpha = 0.851831
+cmos signal frame_count = 136
+=============================================================
+frame_count = 134
+start of frame: vs = 18366719140, exp = 100000
+prev_frame_ts = 1836.637723, current_frame_ts = 1836.671047, dt = 0.033325
+first_line_ts = 1836.671047, last_line_ts = 1836.696114
+now is outer moving region
+v_cam_orientation x/y/z: 0.048723, -0.385955, -0.032117
+p_cam_orientation x/y/z: 0.035985, -0.346202, -0.024603
+is_out_of_boundary = 0
+uncompensated_dist = 101.243510
+alpha = 0.854239
+cmos signal frame_count = 137
+=============================================================
+frame_count = 135
+start of frame: vs = 18367052388, exp = 100000
+prev_frame_ts = 1836.671047, current_frame_ts = 1836.704372, dt = 0.033325
+first_line_ts = 1836.704372, last_line_ts = 1836.729439
+now is outer moving region
+v_cam_orientation x/y/z: 0.048875, -0.368410, -0.028874
+p_cam_orientation x/y/z: 0.036297, -0.330317, -0.023373
+is_out_of_boundary = 0
+uncompensated_dist = 100.036272
+alpha = 0.856437
+cmos signal frame_count = 138
+=============================================================
+frame_count = 136
+start of frame: vs = 18367385636, exp = 100000
+prev_frame_ts = 1836.704372, current_frame_ts = 1836.737697, dt = 0.033325
+first_line_ts = 1836.737697, last_line_ts = 1836.762764
+now is outer moving region
+v_cam_orientation x/y/z: 0.049155, -0.351026, -0.025885
+p_cam_orientation x/y/z: 0.034182, -0.315366, -0.023859
+is_out_of_boundary = 0
+uncompensated_dist = 92.089326
+alpha = 0.857936
+cmos signal frame_count = 139
+=============================================================
+frame_count = 137
+start of frame: vs = 18367718884, exp = 100000
+prev_frame_ts = 1836.737697, current_frame_ts = 1836.771022, dt = 0.033325
+first_line_ts = 1836.771022, last_line_ts = 1836.796088
+now is outer moving region
+v_cam_orientation x/y/z: 0.049191, -0.333896, -0.023355
+p_cam_orientation x/y/z: 0.031122, -0.301285, -0.025522
+is_out_of_boundary = 0
+uncompensated_dist = 82.223528
+alpha = 0.858630
+cmos signal frame_count = 140
+=============================================================
+frame_count = 138
+start of frame: vs = 18368052132, exp = 100000
+prev_frame_ts = 1836.771022, current_frame_ts = 1836.804347, dt = 0.033325
+first_line_ts = 1836.804347, last_line_ts = 1836.829413
+now is outer moving region
+v_cam_orientation x/y/z: 0.048856, -0.317106, -0.021381
+p_cam_orientation x/y/z: 0.028409, -0.287234, -0.026786
+is_out_of_boundary = 0
+uncompensated_dist = 74.839239
+alpha = 0.858742
+cmos signal frame_count = 141
+=============================================================
+frame_count = 139
+start of frame: vs = 18368385380, exp = 100000
+prev_frame_ts = 1836.804347, current_frame_ts = 1836.837671, dt = 0.033325
+first_line_ts = 1836.837671, last_line_ts = 1836.862738
+now is outer moving region
+v_cam_orientation x/y/z: 0.048264, -0.300620, -0.019809
+p_cam_orientation x/y/z: 0.026556, -0.272120, -0.026898
+is_out_of_boundary = 0
+uncompensated_dist = 70.988331
+alpha = 0.858564
+cmos signal frame_count = 142
+=============================================================
+frame_count = 140
+start of frame: vs = 18368718628, exp = 100000
+prev_frame_ts = 1836.837671, current_frame_ts = 1836.870996, dt = 0.033325
+first_line_ts = 1836.870996, last_line_ts = 1836.896063
+now is outer moving region
+v_cam_orientation x/y/z: 0.047533, -0.284253, -0.018419
+p_cam_orientation x/y/z: 0.016093, -0.254925, -0.031305
+is_out_of_boundary = 0
+uncompensated_dist = 44.222452
+alpha = 0.856411
+cmos signal frame_count = 143
+=============================================================
+frame_count = 141
+start of frame: vs = 18369051876, exp = 100000
+prev_frame_ts = 1836.870996, current_frame_ts = 1836.904321, dt = 0.033325
+first_line_ts = 1836.904321, last_line_ts = 1836.929388
+now is outer moving region
+v_cam_orientation x/y/z: 0.045462, -0.267682, -0.017771
+p_cam_orientation x/y/z: -0.000912, -0.239693, -0.035591
+is_out_of_boundary = 0
+uncompensated_dist = 8.221447
+alpha = 0.851700
+cmos signal frame_count = 144
+=============================================================
+frame_count = 142
+start of frame: vs = 18369385124, exp = 100000
+prev_frame_ts = 1836.904321, current_frame_ts = 1836.937646, dt = 0.033325
+first_line_ts = 1836.937646, last_line_ts = 1836.962712
+now is outer moving region
+v_cam_orientation x/y/z: 0.029593, -0.239148, -0.019207
+p_cam_orientation x/y/z: -0.017197, -0.211440, -0.037364
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.846615
+cmos signal frame_count = 145
+=============================================================
+frame_count = 143
+start of frame: vs = 18369718372, exp = 100000
+prev_frame_ts = 1836.937646, current_frame_ts = 1836.970971, dt = 0.033325
+first_line_ts = 1836.970971, last_line_ts = 1836.996037
+now is outer moving region
+v_cam_orientation x/y/z: 0.023902, -0.221003, -0.019451
+p_cam_orientation x/y/z: -0.020284, -0.195907, -0.036919
+is_out_of_boundary = 0
+uncompensated_dist = 15.191242
+alpha = 0.842909
+cmos signal frame_count = 146
+=============================================================
+frame_count = 144
+start of frame: vs = 18370051620, exp = 100000
+prev_frame_ts = 1836.970971, current_frame_ts = 1837.004295, dt = 0.033325
+first_line_ts = 1837.004295, last_line_ts = 1837.029362
+now is outer moving region
+v_cam_orientation x/y/z: 0.018636, -0.203161, -0.019535
+p_cam_orientation x/y/z: -0.017120, -0.176190, -0.034880
+is_out_of_boundary = 0
+uncompensated_dist = 34.829780
+alpha = 0.840844
+cmos signal frame_count = 147
+=============================================================
+frame_count = 145
+start of frame: vs = 18370384868, exp = 100000
+prev_frame_ts = 1837.004295, current_frame_ts = 1837.037620, dt = 0.033325
+first_line_ts = 1837.037620, last_line_ts = 1837.062687
+now is outer moving region
+v_cam_orientation x/y/z: 0.014555, -0.185024, -0.019240
+p_cam_orientation x/y/z: -0.009974, -0.152190, -0.031176
+is_out_of_boundary = 0
+uncompensated_dist = 60.216243
+alpha = 0.840762
+cmos signal frame_count = 148
+=============================================================
+frame_count = 146
+start of frame: vs = 18370718116, exp = 100000
+prev_frame_ts = 1837.037620, current_frame_ts = 1837.070945, dt = 0.033325
+first_line_ts = 1837.070945, last_line_ts = 1837.096012
+now is outer moving region
+v_cam_orientation x/y/z: 0.012021, -0.166101, -0.018396
+p_cam_orientation x/y/z: -0.003026, -0.127685, -0.027517
+is_out_of_boundary = 0
+uncompensated_dist = 81.246755
+alpha = 0.842242
+cmos signal frame_count = 149
+=============================================================
+frame_count = 147
+start of frame: vs = 18371051364, exp = 100000
+prev_frame_ts = 1837.070945, current_frame_ts = 1837.104270, dt = 0.033325
+first_line_ts = 1837.104270, last_line_ts = 1837.129336
+now is outer moving region
+v_cam_orientation x/y/z: 0.010778, -0.146453, -0.017140
+p_cam_orientation x/y/z: 0.001277, -0.103971, -0.024271
+is_out_of_boundary = 0
+uncompensated_dist = 93.491181
+alpha = 0.844555
+cmos signal frame_count = 150
+=============================================================
+frame_count = 148
+start of frame: vs = 18371384612, exp = 100000
+prev_frame_ts = 1837.104270, current_frame_ts = 1837.137595, dt = 0.033325
+first_line_ts = 1837.137595, last_line_ts = 1837.162661
+now is outer moving region
+v_cam_orientation x/y/z: 0.010258, -0.126278, -0.015626
+p_cam_orientation x/y/z: 0.006128, -0.081775, -0.021284
+is_out_of_boundary = 0
+uncompensated_dist = 91.160840
+alpha = 0.846580
+cmos signal frame_count = 151
+=============================================================
+frame_count = 149
+start of frame: vs = 18371717860, exp = 100000
+prev_frame_ts = 1837.137595, current_frame_ts = 1837.170919, dt = 0.033325
+first_line_ts = 1837.170919, last_line_ts = 1837.195986
+now is outer moving region
+v_cam_orientation x/y/z: 0.010387, -0.105859, -0.013953
+p_cam_orientation x/y/z: 0.007867, -0.060486, -0.019060
+is_out_of_boundary = 0
+uncompensated_dist = 89.559718
+alpha = 0.848385
+cmos signal frame_count = 152
+=============================================================
+frame_count = 150
+start of frame: vs = 18372051108, exp = 100000
+prev_frame_ts = 1837.170919, current_frame_ts = 1837.204244, dt = 0.033325
+first_line_ts = 1837.204244, last_line_ts = 1837.229311
+now is outer moving region
+v_cam_orientation x/y/z: 0.010657, -0.085372, -0.012249
+p_cam_orientation x/y/z: 0.006625, -0.039129, -0.017110
+is_out_of_boundary = 0
+uncompensated_dist = 88.517186
+alpha = 0.850023
+cmos signal frame_count = 153
+=============================================================
+frame_count = 151
+start of frame: vs = 18372384356, exp = 100000
+prev_frame_ts = 1837.204244, current_frame_ts = 1837.237569, dt = 0.033325
+first_line_ts = 1837.237569, last_line_ts = 1837.262636
+now is outer moving region
+v_cam_orientation x/y/z: 0.010670, -0.064855, -0.010546
+p_cam_orientation x/y/z: 0.005198, -0.017922, -0.014685
+is_out_of_boundary = 0
+uncompensated_dist = 88.241013
+alpha = 0.851558
+cmos signal frame_count = 154
+=============================================================
+frame_count = 152
+start of frame: vs = 18372717604, exp = 100000
+prev_frame_ts = 1837.237569, current_frame_ts = 1837.270894, dt = 0.033325
+first_line_ts = 1837.270894, last_line_ts = 1837.295960
+now is outer moving region
+v_cam_orientation x/y/z: 0.010489, -0.044385, -0.008757
+p_cam_orientation x/y/z: 0.004239, 0.003348, -0.011437
+is_out_of_boundary = 0
+uncompensated_dist = 86.666909
+alpha = 0.852900
+cmos signal frame_count = 155
+=============================================================
+frame_count = 153
+start of frame: vs = 18373050852, exp = 100000
+prev_frame_ts = 1837.270894, current_frame_ts = 1837.304219, dt = 0.033325
+first_line_ts = 1837.304219, last_line_ts = 1837.329285
+now is outer moving region
+v_cam_orientation x/y/z: 0.010273, -0.023994, -0.006762
+p_cam_orientation x/y/z: 0.004943, 0.024934, -0.007593
+is_out_of_boundary = 0
+uncompensated_dist = 83.880690
+alpha = 0.853968
+cmos signal frame_count = 156
+=============================================================
+frame_count = 154
+start of frame: vs = 18373384100, exp = 100000
+prev_frame_ts = 1837.304219, current_frame_ts = 1837.337543, dt = 0.033325
+first_line_ts = 1837.337543, last_line_ts = 1837.362610
+now is outer moving region
+v_cam_orientation x/y/z: 0.010291, -0.003634, -0.004499
+p_cam_orientation x/y/z: 0.006742, 0.046947, -0.002717
+is_out_of_boundary = 0
+uncompensated_dist = 81.523738
+alpha = 0.854809
+cmos signal frame_count = 157
+=============================================================
+frame_count = 155
+start of frame: vs = 18373717348, exp = 100000
+prev_frame_ts = 1837.337543, current_frame_ts = 1837.370868, dt = 0.033325
+first_line_ts = 1837.370868, last_line_ts = 1837.395935
+now is outer moving region
+v_cam_orientation x/y/z: 0.010647, 0.016770, -0.001863
+p_cam_orientation x/y/z: 0.010740, 0.067920, 0.002413
+is_out_of_boundary = 0
+uncompensated_dist = 80.603190
+alpha = 0.855539
+cmos signal frame_count = 158
+=============================================================
+frame_count = 156
+start of frame: vs = 18374050596, exp = 100000
+prev_frame_ts = 1837.370868, current_frame_ts = 1837.404193, dt = 0.033325
+first_line_ts = 1837.404193, last_line_ts = 1837.429260
+now is outer moving region
+v_cam_orientation x/y/z: 0.011532, 0.037091, 0.001099
+p_cam_orientation x/y/z: 0.013954, 0.088327, 0.005207
+is_out_of_boundary = 0
+uncompensated_dist = 79.039469
+alpha = 0.856117
+cmos signal frame_count = 159
+=============================================================
+frame_count = 157
+start of frame: vs = 18374383844, exp = 100000
+prev_frame_ts = 1837.404193, current_frame_ts = 1837.437518, dt = 0.033325
+first_line_ts = 1837.437518, last_line_ts = 1837.462584
+now is outer moving region
+v_cam_orientation x/y/z: 0.012717, 0.057289, 0.003981
+p_cam_orientation x/y/z: 0.013485, 0.108915, 0.005898
+is_out_of_boundary = 0
+uncompensated_dist = 79.907387
+alpha = 0.856730
+cmos signal frame_count = 160
+=============================================================
+frame_count = 158
+start of frame: vs = 18374717092, exp = 100000
+prev_frame_ts = 1837.437518, current_frame_ts = 1837.470843, dt = 0.033325
+first_line_ts = 1837.470843, last_line_ts = 1837.495909
+now is outer moving region
+v_cam_orientation x/y/z: 0.013661, 0.077376, 0.006499
+p_cam_orientation x/y/z: 0.009518, 0.128442, 0.004855
+is_out_of_boundary = 0
+uncompensated_dist = 84.884201
+alpha = 0.857681
+cmos signal frame_count = 161
+=============================================================
+frame_count = 159
+start of frame: vs = 18375050340, exp = 100000
+prev_frame_ts = 1837.470843, current_frame_ts = 1837.504167, dt = 0.033325
+first_line_ts = 1837.504167, last_line_ts = 1837.529234
+now is outer moving region
+v_cam_orientation x/y/z: 0.013984, 0.097147, 0.008493
+p_cam_orientation x/y/z: 0.003694, 0.146153, 0.003200
+is_out_of_boundary = 0
+uncompensated_dist = 91.365355
+alpha = 0.859065
+cmos signal frame_count = 162
+=============================================================
+frame_count = 160
+start of frame: vs = 18375383588, exp = 100000
+prev_frame_ts = 1837.504167, current_frame_ts = 1837.537492, dt = 0.033325
+first_line_ts = 1837.537492, last_line_ts = 1837.562559
+now is outer moving region
+v_cam_orientation x/y/z: 0.013569, 0.116336, 0.009980
+p_cam_orientation x/y/z: -0.001986, 0.161214, 0.001881
+is_out_of_boundary = 0
+uncompensated_dist = 80.876556
+alpha = 0.859603
+cmos signal frame_count = 163
+=============================================================
+frame_count = 161
+start of frame: vs = 18375716836, exp = 100000
+prev_frame_ts = 1837.537492, current_frame_ts = 1837.570817, dt = 0.033325
+first_line_ts = 1837.570817, last_line_ts = 1837.595884
+now is outer moving region
+v_cam_orientation x/y/z: 0.012560, 0.134645, 0.011085
+p_cam_orientation x/y/z: -0.003459, 0.172468, 0.002079
+is_out_of_boundary = 0
+uncompensated_dist = 82.211816
+alpha = 0.860212
+cmos signal frame_count = 164
+=============================================================
+frame_count = 162
+start of frame: vs = 18376050084, exp = 100000
+prev_frame_ts = 1837.570817, current_frame_ts = 1837.604142, dt = 0.033325
+first_line_ts = 1837.604142, last_line_ts = 1837.629208
+now is outer moving region
+v_cam_orientation x/y/z: 0.011562, 0.151733, 0.012055
+p_cam_orientation x/y/z: 0.000352, 0.180277, 0.003304
+is_out_of_boundary = 0
+uncompensated_dist = 94.983091
+alpha = 0.861737
+cmos signal frame_count = 165
+=============================================================
+frame_count = 163
+start of frame: vs = 18376383332, exp = 100000
+prev_frame_ts = 1837.604142, current_frame_ts = 1837.637467, dt = 0.033325
+first_line_ts = 1837.637467, last_line_ts = 1837.662533
+now is outer moving region
+v_cam_orientation x/y/z: 0.011171, 0.167428, 0.013018
+p_cam_orientation x/y/z: 0.006289, 0.187463, 0.004829
+is_out_of_boundary = 0
+uncompensated_dist = 110.390362
+alpha = 0.864328
+cmos signal frame_count = 166
+=============================================================
+frame_count = 164
+start of frame: vs = 18376716580, exp = 100000
+prev_frame_ts = 1837.637467, current_frame_ts = 1837.670791, dt = 0.033325
+first_line_ts = 1837.670791, last_line_ts = 1837.695858
+now is outer moving region
+v_cam_orientation x/y/z: 0.011577, 0.181891, 0.014012
+p_cam_orientation x/y/z: 0.010942, 0.195337, 0.005826
+is_out_of_boundary = 0
+uncompensated_dist = 120.684025
+alpha = 0.867551
+cmos signal frame_count = 167
+=============================================================
+frame_count = 165
+start of frame: vs = 18377049828, exp = 100000
+prev_frame_ts = 1837.670791, current_frame_ts = 1837.704116, dt = 0.033325
+first_line_ts = 1837.704116, last_line_ts = 1837.729183
+now is outer moving region
+v_cam_orientation x/y/z: 0.012578, 0.195353, 0.014978
+p_cam_orientation x/y/z: 0.009998, 0.205195, 0.005323
+is_out_of_boundary = 0
+uncompensated_dist = 117.246237
+alpha = 0.870358
+cmos signal frame_count = 168
+=============================================================
+frame_count = 166
+start of frame: vs = 18377383076, exp = 100000
+prev_frame_ts = 1837.704116, current_frame_ts = 1837.737441, dt = 0.033325
+first_line_ts = 1837.737441, last_line_ts = 1837.762508
+now is outer moving region
+v_cam_orientation x/y/z: 0.013391, 0.208163, 0.015725
+p_cam_orientation x/y/z: 0.005723, 0.216874, 0.003133
+is_out_of_boundary = 0
+uncompensated_dist = 105.957677
+alpha = 0.872189
+cmos signal frame_count = 169
+=============================================================
+frame_count = 167
+start of frame: vs = 18377716324, exp = 100000
+prev_frame_ts = 1837.737441, current_frame_ts = 1837.770766, dt = 0.033325
+first_line_ts = 1837.770766, last_line_ts = 1837.795832
+now is outer moving region
+v_cam_orientation x/y/z: 0.013604, 0.220623, 0.016064
+p_cam_orientation x/y/z: 0.002665, 0.226285, 0.000736
+is_out_of_boundary = 0
+uncompensated_dist = 98.953623
+alpha = 0.873409
+cmos signal frame_count = 170
+=============================================================
+frame_count = 168
+start of frame: vs = 18378049572, exp = 100000
+prev_frame_ts = 1837.770766, current_frame_ts = 1837.804091, dt = 0.033325
+first_line_ts = 1837.804091, last_line_ts = 1837.829157
+now is outer moving region
+v_cam_orientation x/y/z: 0.013398, 0.232516, 0.016028
+p_cam_orientation x/y/z: 0.004107, 0.230242, -0.000338
+is_out_of_boundary = 0
+uncompensated_dist = 104.024351
+alpha = 0.874944
+cmos signal frame_count = 171
+=============================================================
+frame_count = 169
+start of frame: vs = 18378382820, exp = 100000
+prev_frame_ts = 1837.804091, current_frame_ts = 1837.837415, dt = 0.033325
+first_line_ts = 1837.837415, last_line_ts = 1837.862482
+now is outer moving region
+v_cam_orientation x/y/z: 0.013351, 0.243295, 0.015840
+p_cam_orientation x/y/z: 0.008698, 0.229202, -0.000304
+is_out_of_boundary = 0
+uncompensated_dist = 112.647263
+alpha = 0.877041
+cmos signal frame_count = 172
+=============================================================
+frame_count = 170
+start of frame: vs = 18378716068, exp = 100000
+prev_frame_ts = 1837.837415, current_frame_ts = 1837.870740, dt = 0.033325
+first_line_ts = 1837.870740, last_line_ts = 1837.895807
+now is outer moving region
+v_cam_orientation x/y/z: 0.013866, 0.252510, 0.015670
+p_cam_orientation x/y/z: 0.014310, 0.225798, -0.000090
+is_out_of_boundary = 0
+uncompensated_dist = 100.227367
+alpha = 0.878114
+cmos signal frame_count = 173
+=============================================================
+frame_count = 171
+start of frame: vs = 18379049316, exp = 100000
+prev_frame_ts = 1837.870740, current_frame_ts = 1837.904065, dt = 0.033325
+first_line_ts = 1837.904065, last_line_ts = 1837.929132
+now is outer moving region
+v_cam_orientation x/y/z: 0.015061, 0.260045, 0.015555
+p_cam_orientation x/y/z: 0.017185, 0.224831, -0.000564
+is_out_of_boundary = 0
+uncompensated_dist = 105.678375
+alpha = 0.879536
+cmos signal frame_count = 174
+=============================================================
+frame_count = 172
+start of frame: vs = 18379382564, exp = 100000
+prev_frame_ts = 1837.904065, current_frame_ts = 1837.937390, dt = 0.033325
+first_line_ts = 1837.937390, last_line_ts = 1837.962456
+now is outer moving region
+v_cam_orientation x/y/z: 0.016530, 0.266410, 0.015415
+p_cam_orientation x/y/z: 0.012888, 0.230753, -0.002897
+is_out_of_boundary = 0
+uncompensated_dist = 118.650651
+alpha = 0.881848
+cmos signal frame_count = 175
+=============================================================
+frame_count = 173
+start of frame: vs = 18379715812, exp = 100000
+prev_frame_ts = 1837.937390, current_frame_ts = 1837.970715, dt = 0.033325
+first_line_ts = 1837.970715, last_line_ts = 1837.995781
+now is outer moving region
+v_cam_orientation x/y/z: 0.017312, 0.272637, 0.015027
+p_cam_orientation x/y/z: 0.008749, 0.238898, -0.005680
+is_out_of_boundary = 0
+uncompensated_dist = 113.170103
+alpha = 0.883639
+cmos signal frame_count = 176
+=============================================================
+frame_count = 174
+start of frame: vs = 18380049060, exp = 100000
+prev_frame_ts = 1837.970715, current_frame_ts = 1838.004039, dt = 0.033325
+first_line_ts = 1838.004039, last_line_ts = 1838.029106
+now is outer moving region
+v_cam_orientation x/y/z: 0.017467, 0.279056, 0.014393
+p_cam_orientation x/y/z: 0.011023, 0.243650, -0.007797
+is_out_of_boundary = 0
+uncompensated_dist = 103.242368
+alpha = 0.884604
+cmos signal frame_count = 177
+=============================================================
+frame_count = 175
+start of frame: vs = 18380382308, exp = 100000
+prev_frame_ts = 1838.004039, current_frame_ts = 1838.037364, dt = 0.033325
+first_line_ts = 1838.037364, last_line_ts = 1838.062431
+now is outer moving region
+v_cam_orientation x/y/z: 0.017799, 0.285270, 0.013617
+p_cam_orientation x/y/z: 0.015973, 0.243813, -0.010074
+is_out_of_boundary = 0
+uncompensated_dist = 87.940749
+alpha = 0.884388
+cmos signal frame_count = 178
+=============================================================
+frame_count = 176
+start of frame: vs = 18380715556, exp = 100000
+prev_frame_ts = 1838.037364, current_frame_ts = 1838.070689, dt = 0.033325
+first_line_ts = 1838.070689, last_line_ts = 1838.095756
+now is outer moving region
+v_cam_orientation x/y/z: 0.018610, 0.290778, 0.012695
+p_cam_orientation x/y/z: 0.020561, 0.241434, -0.012454
+is_out_of_boundary = 0
+uncompensated_dist = 82.859360
+alpha = 0.883807
+cmos signal frame_count = 179
+=============================================================
+frame_count = 177
+start of frame: vs = 18381048804, exp = 100000
+prev_frame_ts = 1838.070689, current_frame_ts = 1838.104014, dt = 0.033325
+first_line_ts = 1838.104014, last_line_ts = 1838.129080
+now is outer moving region
+v_cam_orientation x/y/z: 0.019884, 0.295347, 0.011646
+p_cam_orientation x/y/z: 0.020348, 0.241039, -0.014742
+is_out_of_boundary = 0
+uncompensated_dist = 90.725294
+alpha = 0.883837
+cmos signal frame_count = 180
+=============================================================
+frame_count = 178
+start of frame: vs = 18381382052, exp = 100000
+prev_frame_ts = 1838.104014, current_frame_ts = 1838.137339, dt = 0.033325
+first_line_ts = 1838.137339, last_line_ts = 1838.162405
+now is outer moving region
+v_cam_orientation x/y/z: 0.021058, 0.299290, 0.010504
+p_cam_orientation x/y/z: 0.015875, 0.246134, -0.016332
+is_out_of_boundary = 0
+uncompensated_dist = 92.371882
+alpha = 0.883987
+cmos signal frame_count = 181
+=============================================================
+frame_count = 179
+start of frame: vs = 18381715300, exp = 100000
+prev_frame_ts = 1838.137339, current_frame_ts = 1838.170663, dt = 0.033325
+first_line_ts = 1838.170663, last_line_ts = 1838.195730
+now is outer moving region
+v_cam_orientation x/y/z: 0.021676, 0.303309, 0.009362
+p_cam_orientation x/y/z: 0.013688, 0.252587, -0.017236
+is_out_of_boundary = 0
+uncompensated_dist = 97.069918
+alpha = 0.884478
+cmos signal frame_count = 182
+=============================================================
+frame_count = 180
+start of frame: vs = 18382048548, exp = 100000
+prev_frame_ts = 1838.170663, current_frame_ts = 1838.203988, dt = 0.033325
+first_line_ts = 1838.203988, last_line_ts = 1838.229055
+now is outer moving region
+v_cam_orientation x/y/z: 0.022016, 0.307583, 0.008307
+p_cam_orientation x/y/z: 0.017141, 0.255483, -0.017077
+is_out_of_boundary = 0
+uncompensated_dist = 89.768035
+alpha = 0.884404
+cmos signal frame_count = 183
+=============================================================
+frame_count = 181
+start of frame: vs = 18382381796, exp = 100000
+prev_frame_ts = 1838.203988, current_frame_ts = 1838.237313, dt = 0.033325
+first_line_ts = 1838.237313, last_line_ts = 1838.262380
+now is outer moving region
+v_cam_orientation x/y/z: 0.022659, 0.311747, 0.007443
+p_cam_orientation x/y/z: 0.023667, 0.255248, -0.016111
+is_out_of_boundary = 0
+uncompensated_dist = 78.486649
+alpha = 0.883497
+cmos signal frame_count = 184
+=============================================================
+frame_count = 182
+start of frame: vs = 18382715044, exp = 100000
+prev_frame_ts = 1838.237313, current_frame_ts = 1838.270638, dt = 0.033325
+first_line_ts = 1838.270638, last_line_ts = 1838.295704
+now is outer moving region
+v_cam_orientation x/y/z: 0.023833, 0.315504, 0.006826
+p_cam_orientation x/y/z: 0.028690, 0.254921, -0.014385
+is_out_of_boundary = 0
+uncompensated_dist = 78.294738
+alpha = 0.882622
+cmos signal frame_count = 185
+=============================================================
+frame_count = 183
+start of frame: vs = 18383048292, exp = 100000
+prev_frame_ts = 1838.270638, current_frame_ts = 1838.303963, dt = 0.033325
+first_line_ts = 1838.303963, last_line_ts = 1838.329029
+now is outer moving region
+v_cam_orientation x/y/z: 0.025346, 0.318895, 0.006492
+p_cam_orientation x/y/z: 0.028309, 0.257833, -0.011243
+is_out_of_boundary = 0
+uncompensated_dist = 79.374494
+alpha = 0.881871
+cmos signal frame_count = 186
+=============================================================
+frame_count = 184
+start of frame: vs = 18383381540, exp = 100000
+prev_frame_ts = 1838.303963, current_frame_ts = 1838.337287, dt = 0.033325
+first_line_ts = 1838.337287, last_line_ts = 1838.362354
+now is outer moving region
+v_cam_orientation x/y/z: 0.026697, 0.322286, 0.006561
+p_cam_orientation x/y/z: 0.022703, 0.264025, -0.009013
+is_out_of_boundary = 0
+uncompensated_dist = 85.966209
+alpha = 0.881645
+cmos signal frame_count = 187
+=============================================================
+frame_count = 185
+start of frame: vs = 18383714788, exp = 100000
+prev_frame_ts = 1838.337287, current_frame_ts = 1838.370612, dt = 0.033325
+first_line_ts = 1838.370612, last_line_ts = 1838.395679
+now is outer moving region
+v_cam_orientation x/y/z: 0.027412, 0.325972, 0.006904
+p_cam_orientation x/y/z: 0.019217, 0.270398, -0.007274
+is_out_of_boundary = 0
+uncompensated_dist = 91.686256
+alpha = 0.881854
+cmos signal frame_count = 188
+=============================================================
+frame_count = 186
+start of frame: vs = 18384048036, exp = 100000
+prev_frame_ts = 1838.370612, current_frame_ts = 1838.403937, dt = 0.033325
+first_line_ts = 1838.403937, last_line_ts = 1838.429004
+now is outer moving region
+v_cam_orientation x/y/z: 0.027762, 0.329934, 0.007440
+p_cam_orientation x/y/z: 0.023903, 0.273171, -0.004863
+is_out_of_boundary = 0
+uncompensated_dist = 89.989417
+alpha = 0.881927
+cmos signal frame_count = 189
+=============================================================
+frame_count = 187
+start of frame: vs = 18384381284, exp = 100000
+prev_frame_ts = 1838.403937, current_frame_ts = 1838.437262, dt = 0.033325
+first_line_ts = 1838.437262, last_line_ts = 1838.462328
+now is outer moving region
+v_cam_orientation x/y/z: 0.028562, 0.333805, 0.008201
+p_cam_orientation x/y/z: 0.032689, 0.272599, -0.001924
+is_out_of_boundary = 0
+uncompensated_dist = 77.003426
+alpha = 0.881035
+cmos signal frame_count = 190
+=============================================================
+frame_count = 188
+start of frame: vs = 18384714532, exp = 100000
+prev_frame_ts = 1838.437262, current_frame_ts = 1838.470587, dt = 0.033325
+first_line_ts = 1838.470587, last_line_ts = 1838.495653
+now is outer moving region
+v_cam_orientation x/y/z: 0.030126, 0.337296, 0.009191
+p_cam_orientation x/y/z: 0.041734, 0.271695, 0.001061
+is_out_of_boundary = 0
+uncompensated_dist = 69.379039
+alpha = 0.879622
+cmos signal frame_count = 191
+=============================================================
+frame_count = 189
+start of frame: vs = 18385047780, exp = 100000
+prev_frame_ts = 1838.470587, current_frame_ts = 1838.503911, dt = 0.033325
+first_line_ts = 1838.503911, last_line_ts = 1838.528978
+now is outer moving region
+v_cam_orientation x/y/z: 0.032419, 0.340423, 0.010391
+p_cam_orientation x/y/z: 0.045595, 0.274471, 0.004611
+is_out_of_boundary = 0
+uncompensated_dist = 76.121435
+alpha = 0.878780
+cmos signal frame_count = 192
+=============================================================
+frame_count = 190
+start of frame: vs = 18385381028, exp = 100000
+prev_frame_ts = 1838.503911, current_frame_ts = 1838.537236, dt = 0.033325
+first_line_ts = 1838.537236, last_line_ts = 1838.562303
+now is outer moving region
+v_cam_orientation x/y/z: 0.034889, 0.343586, 0.011853
+p_cam_orientation x/y/z: 0.042593, 0.282287, 0.008381
+is_out_of_boundary = 0
+uncompensated_dist = 88.047040
+alpha = 0.878863
+cmos signal frame_count = 193
+=============================================================
+frame_count = 191
+start of frame: vs = 18385714276, exp = 100000
+prev_frame_ts = 1838.537236, current_frame_ts = 1838.570561, dt = 0.033325
+first_line_ts = 1838.570561, last_line_ts = 1838.595628
+now is outer moving region
+v_cam_orientation x/y/z: 0.036867, 0.347273, 0.013587
+p_cam_orientation x/y/z: 0.033694, 0.292311, 0.011282
+is_out_of_boundary = 0
+uncompensated_dist = 101.593531
+alpha = 0.879945
+cmos signal frame_count = 194
+=============================================================
+frame_count = 192
+start of frame: vs = 18386047524, exp = 100000
+prev_frame_ts = 1838.570561, current_frame_ts = 1838.603886, dt = 0.033325
+first_line_ts = 1838.603886, last_line_ts = 1838.628952
+now is outer moving region
+v_cam_orientation x/y/z: 0.037769, 0.351655, 0.015480
+p_cam_orientation x/y/z: 0.027798, 0.301920, 0.012966
+is_out_of_boundary = 0
+uncompensated_dist = 97.844434
+alpha = 0.880696
+cmos signal frame_count = 195
+=============================================================
+frame_count = 193
+start of frame: vs = 18386380772, exp = 100000
+prev_frame_ts = 1838.603886, current_frame_ts = 1838.637211, dt = 0.033325
+first_line_ts = 1838.637211, last_line_ts = 1838.662277
+now is outer moving region
+v_cam_orientation x/y/z: 0.037960, 0.356654, 0.017371
+p_cam_orientation x/y/z: 0.030473, 0.309386, 0.015207
+is_out_of_boundary = 0
+uncompensated_dist = 104.055246
+alpha = 0.881869
+cmos signal frame_count = 196
+=============================================================
+frame_count = 194
+start of frame: vs = 18386714020, exp = 100000
+prev_frame_ts = 1838.637211, current_frame_ts = 1838.670535, dt = 0.033325
+first_line_ts = 1838.670535, last_line_ts = 1838.695602
+now is outer moving region
+v_cam_orientation x/y/z: 0.038346, 0.362018, 0.019289
+p_cam_orientation x/y/z: 0.037638, 0.313220, 0.018728
+is_out_of_boundary = 0
+uncompensated_dist = 107.966439
+alpha = 0.883273
+cmos signal frame_count = 197
+=============================================================
+frame_count = 195
+start of frame: vs = 18387047268, exp = 100000
+prev_frame_ts = 1838.670535, current_frame_ts = 1838.703860, dt = 0.033325
+first_line_ts = 1838.703860, last_line_ts = 1838.728927
+now is outer moving region
+v_cam_orientation x/y/z: 0.039407, 0.367319, 0.021358
+p_cam_orientation x/y/z: 0.043159, 0.316645, 0.022343
+is_out_of_boundary = 0
+uncompensated_dist = 109.426152
+alpha = 0.884715
+cmos signal frame_count = 198
+=============================================================
+frame_count = 196
+start of frame: vs = 18387380516, exp = 100000
+prev_frame_ts = 1838.703860, current_frame_ts = 1838.737185, dt = 0.033325
+first_line_ts = 1838.737185, last_line_ts = 1838.762252
+now is outer moving region
+v_cam_orientation x/y/z: 0.040983, 0.372480, 0.023578
+p_cam_orientation x/y/z: 0.041620, 0.323602, 0.024588
+is_out_of_boundary = 0
+uncompensated_dist = 119.086447
+alpha = 0.886800
+cmos signal frame_count = 199
+=============================================================
+frame_count = 197
+start of frame: vs = 18387713764, exp = 100000
+prev_frame_ts = 1838.737185, current_frame_ts = 1838.770510, dt = 0.033325
+first_line_ts = 1838.770510, last_line_ts = 1838.795576
+now is outer moving region
+v_cam_orientation x/y/z: 0.042267, 0.377863, 0.025776
+p_cam_orientation x/y/z: 0.034469, 0.334674, 0.024729
+is_out_of_boundary = 0
+uncompensated_dist = 104.430551
+alpha = 0.887696
+cmos signal frame_count = 200
+=============================================================
+frame_count = 198
+start of frame: vs = 18388047012, exp = 100000
+prev_frame_ts = 1838.770510, current_frame_ts = 1838.803835, dt = 0.033325
+first_line_ts = 1838.803835, last_line_ts = 1838.828901
+now is outer moving region
+v_cam_orientation x/y/z: 0.042633, 0.383883, 0.027715
+p_cam_orientation x/y/z: 0.029339, 0.346128, 0.024632
+is_out_of_boundary = 0
+uncompensated_dist = 96.127346
+alpha = 0.887932
+cmos signal frame_count = 201
+=============================================================
+frame_count = 199
+start of frame: vs = 18388380260, exp = 100000
+prev_frame_ts = 1838.803835, current_frame_ts = 1838.837159, dt = 0.033325
+first_line_ts = 1838.837159, last_line_ts = 1838.862226
+now is outer moving region
+v_cam_orientation x/y/z: 0.042344, 0.390527, 0.029392
+p_cam_orientation x/y/z: 0.030051, 0.355289, 0.026198
+is_out_of_boundary = 0
+uncompensated_dist = 99.386387
+alpha = 0.888397
+cmos signal frame_count = 202
+=============================================================
+frame_count = 200
+start of frame: vs = 18388713508, exp = 100000
+prev_frame_ts = 1838.837159, current_frame_ts = 1838.870484, dt = 0.033325
+first_line_ts = 1838.870484, last_line_ts = 1838.895551
+now is outer moving region
+v_cam_orientation x/y/z: 0.042140, 0.397458, 0.031037
+p_cam_orientation x/y/z: 0.036132, 0.361887, 0.029537
+is_out_of_boundary = 0
+uncompensated_dist = 111.767868
+alpha = 0.889756
+cmos signal frame_count = 203
+=============================================================
+frame_count = 201
+start of frame: vs = 18389046756, exp = 100000
+prev_frame_ts = 1838.870484, current_frame_ts = 1838.903809, dt = 0.033325
+first_line_ts = 1838.903809, last_line_ts = 1838.928876
+now is outer moving region
+v_cam_orientation x/y/z: 0.042706, 0.404327, 0.032887
+p_cam_orientation x/y/z: 0.041206, 0.368369, 0.033256
+is_out_of_boundary = 0
+uncompensated_dist = 120.076343
+alpha = 0.891663
+cmos signal frame_count = 204
+=============================================================
+frame_count = 202
+start of frame: vs = 18389380004, exp = 100000
+prev_frame_ts = 1838.903809, current_frame_ts = 1838.937134, dt = 0.033325
+first_line_ts = 1838.937134, last_line_ts = 1838.962200
+now is outer moving region
+v_cam_orientation x/y/z: 0.043877, 0.411115, 0.034978
+p_cam_orientation x/y/z: 0.040823, 0.378381, 0.035572
+is_out_of_boundary = 0
+uncompensated_dist = 117.553009
+alpha = 0.893287
+cmos signal frame_count = 205
+=============================================================
+frame_count = 203
+start of frame: vs = 18389713252, exp = 100000
+prev_frame_ts = 1838.937134, current_frame_ts = 1838.970459, dt = 0.033325
+first_line_ts = 1838.970459, last_line_ts = 1838.995525
+now is outer moving region
+v_cam_orientation x/y/z: 0.044971, 0.418224, 0.037125
+p_cam_orientation x/y/z: 0.033026, 0.392359, 0.035172
+is_out_of_boundary = 0
+uncompensated_dist = 102.345825
+alpha = 0.893704
+cmos signal frame_count = 206
+=============================================================
+frame_count = 204
+start of frame: vs = 18390046500, exp = 100000
+prev_frame_ts = 1838.970459, current_frame_ts = 1839.003783, dt = 0.033325
+first_line_ts = 1839.003783, last_line_ts = 1839.028850
+now is outer moving region
+v_cam_orientation x/y/z: 0.045126, 0.426072, 0.039005
+p_cam_orientation x/y/z: 0.026398, 0.406379, 0.033783
+is_out_of_boundary = 0
+uncompensated_dist = 92.271631
+alpha = 0.893354
+cmos signal frame_count = 207
+=============================================================
+frame_count = 205
+start of frame: vs = 18390379748, exp = 100000
+prev_frame_ts = 1839.003783, current_frame_ts = 1839.037108, dt = 0.033325
+first_line_ts = 1839.037108, last_line_ts = 1839.062175
+now is outer moving region
+v_cam_orientation x/y/z: 0.044556, 0.434595, 0.040544
+p_cam_orientation x/y/z: 0.027823, 0.417036, 0.033059
+is_out_of_boundary = 0
+uncompensated_dist = 99.551551
+alpha = 0.893560
+cmos signal frame_count = 208
+=============================================================
+frame_count = 206
+start of frame: vs = 18390712996, exp = 100000
+prev_frame_ts = 1839.037108, current_frame_ts = 1839.070433, dt = 0.033325
+first_line_ts = 1839.070433, last_line_ts = 1839.095500
+now is outer moving region
+v_cam_orientation x/y/z: 0.044273, 0.443333, 0.041868
+p_cam_orientation x/y/z: 0.030470, 0.424929, 0.031605
+is_out_of_boundary = 0
+uncompensated_dist = 108.544993
+alpha = 0.894423
+cmos signal frame_count = 209
+=============================================================
+frame_count = 207
+start of frame: vs = 18391046244, exp = 100000
+prev_frame_ts = 1839.070433, current_frame_ts = 1839.103758, dt = 0.033325
+first_line_ts = 1839.103758, last_line_ts = 1839.128824
+now is outer moving region
+v_cam_orientation x/y/z: 0.044375, 0.451947, 0.042920
+p_cam_orientation x/y/z: 0.028892, 0.432714, 0.028987
+is_out_of_boundary = 0
+uncompensated_dist = 108.098770
+alpha = 0.895209
+cmos signal frame_count = 210
+=============================================================
+frame_count = 208
+start of frame: vs = 18391379492, exp = 100000
+prev_frame_ts = 1839.103758, current_frame_ts = 1839.137083, dt = 0.033325
+first_line_ts = 1839.137083, last_line_ts = 1839.162149
+now is outer moving region
+v_cam_orientation x/y/z: 0.044328, 0.460440, 0.043588
+p_cam_orientation x/y/z: 0.022216, 0.441605, 0.025412
+is_out_of_boundary = 0
+uncompensated_dist = 94.987577
+alpha = 0.894985
+cmos signal frame_count = 211
+=============================================================
+frame_count = 209
+start of frame: vs = 18391712740, exp = 100000
+prev_frame_ts = 1839.137083, current_frame_ts = 1839.170407, dt = 0.033325
+first_line_ts = 1839.170407, last_line_ts = 1839.195474
+now is outer moving region
+v_cam_orientation x/y/z: 0.043562, 0.468954, 0.043804
+p_cam_orientation x/y/z: 0.017578, 0.449389, 0.023564
+is_out_of_boundary = 0
+uncompensated_dist = 88.305958
+alpha = 0.894277
+cmos signal frame_count = 212
+cmos signal frame_count = 213
+=============================================================
+frame_count = 210
+start of frame: vs = 18392379236, exp = 100000
+prev_frame_ts = 1839.170407, current_frame_ts = 1839.237057, dt = 0.066650
+first_line_ts = 1839.237057, last_line_ts = 1839.262124
+now is outer moving region
+v_cam_orientation x/y/z: 0.042324, 0.477423, 0.043797
+p_cam_orientation x/y/z: 0.022404, 0.454159, 0.025382
+is_out_of_boundary = 0
+uncompensated_dist = 100.172574
+alpha = 0.894483
+cmos signal frame_count = 214
+=============================================================
+frame_count = 211
+start of frame: vs = 18392712484, exp = 100000
+prev_frame_ts = 1839.237057, current_frame_ts = 1839.270382, dt = 0.033325
+first_line_ts = 1839.270382, last_line_ts = 1839.295448
+now is outer moving region
+v_cam_orientation x/y/z: 0.041685, 0.485488, 0.043968
+p_cam_orientation x/y/z: 0.031017, 0.457584, 0.029103
+is_out_of_boundary = 0
+uncompensated_dist = 117.255621
+alpha = 0.895944
+cmos signal frame_count = 215
+=============================================================
+frame_count = 212
+start of frame: vs = 18393045732, exp = 100000
+prev_frame_ts = 1839.270382, current_frame_ts = 1839.303707, dt = 0.033325
+first_line_ts = 1839.303707, last_line_ts = 1839.328773
+now is outer moving region
+v_cam_orientation x/y/z: 0.041965, 0.493049, 0.044493
+p_cam_orientation x/y/z: 0.037987, 0.462128, 0.032354
+is_out_of_boundary = 0
+uncompensated_dist = 118.490263
+alpha = 0.897424
+cmos signal frame_count = 216
+=============================================================
+frame_count = 213
+start of frame: vs = 18393378980, exp = 100000
+prev_frame_ts = 1839.303707, current_frame_ts = 1839.337031, dt = 0.033325
+first_line_ts = 1839.337031, last_line_ts = 1839.362098
+now is outer moving region
+v_cam_orientation x/y/z: 0.042916, 0.500275, 0.045299
+p_cam_orientation x/y/z: 0.037793, 0.470167, 0.032837
+is_out_of_boundary = 0
+uncompensated_dist = 126.827700
+alpha = 0.899448
+cmos signal frame_count = 217
+=============================================================
+frame_count = 214
+start of frame: vs = 18393712228, exp = 100000
+prev_frame_ts = 1839.337031, current_frame_ts = 1839.370356, dt = 0.033325
+first_line_ts = 1839.370356, last_line_ts = 1839.395423
+now is outer moving region
+v_cam_orientation x/y/z: 0.043772, 0.507560, 0.046074
+p_cam_orientation x/y/z: 0.034798, 0.480407, 0.032328
+is_out_of_boundary = 0
+uncompensated_dist = 120.328612
+alpha = 0.900889
+cmos signal frame_count = 218
+=============================================================
+frame_count = 215
+start of frame: vs = 18394045476, exp = 100000
+prev_frame_ts = 1839.370356, current_frame_ts = 1839.403681, dt = 0.033325
+first_line_ts = 1839.403681, last_line_ts = 1839.428748
+now is outer moving region
+v_cam_orientation x/y/z: 0.044249, 0.515122, 0.046716
+p_cam_orientation x/y/z: 0.039953, 0.488151, 0.033687
+is_out_of_boundary = 0
+uncompensated_dist = 109.002388
+alpha = 0.901418
+cmos signal frame_count = 219
+=============================================================
+frame_count = 216
+start of frame: vs = 18394378724, exp = 100000
+prev_frame_ts = 1839.403681, current_frame_ts = 1839.437006, dt = 0.033325
+first_line_ts = 1839.437006, last_line_ts = 1839.462072
+now is outer moving region
+v_cam_orientation x/y/z: 0.045168, 0.522691, 0.047430
+p_cam_orientation x/y/z: 0.046663, 0.493302, 0.034629
+is_out_of_boundary = 0
+uncompensated_dist = 101.796427
+alpha = 0.901388
+cmos signal frame_count = 220
+=============================================================
+frame_count = 217
+start of frame: vs = 18394711972, exp = 100000
+prev_frame_ts = 1839.437006, current_frame_ts = 1839.470331, dt = 0.033325
+first_line_ts = 1839.470331, last_line_ts = 1839.495397
+now is outer moving region
+v_cam_orientation x/y/z: 0.046638, 0.530014, 0.048187
+p_cam_orientation x/y/z: 0.047861, 0.497992, 0.033103
+is_out_of_boundary = 0
+uncompensated_dist = 109.293608
+alpha = 0.901914
+cmos signal frame_count = 221
+=============================================================
+frame_count = 218
+start of frame: vs = 18395045220, exp = 100000
+prev_frame_ts = 1839.470331, current_frame_ts = 1839.503655, dt = 0.033325
+first_line_ts = 1839.503655, last_line_ts = 1839.528722
+now is outer moving region
+v_cam_orientation x/y/z: 0.048073, 0.537078, 0.048741
+p_cam_orientation x/y/z: 0.042770, 0.504233, 0.030303
+is_out_of_boundary = 0
+uncompensated_dist = 124.774775
+alpha = 0.903561
+cmos signal frame_count = 222
+=============================================================
+frame_count = 219
+start of frame: vs = 18395378468, exp = 100000
+prev_frame_ts = 1839.503655, current_frame_ts = 1839.536980, dt = 0.033325
+first_line_ts = 1839.536980, last_line_ts = 1839.562047
+now is outer moving region
+v_cam_orientation x/y/z: 0.048899, 0.544054, 0.048986
+p_cam_orientation x/y/z: 0.033799, 0.515177, 0.027917
+is_out_of_boundary = 0
+uncompensated_dist = 108.645724
+alpha = 0.903931
+cmos signal frame_count = 223
+=============================================================
+frame_count = 220
+start of frame: vs = 18395711716, exp = 100000
+prev_frame_ts = 1839.536980, current_frame_ts = 1839.570305, dt = 0.033325
+first_line_ts = 1839.570305, last_line_ts = 1839.595372
+now is outer moving region
+v_cam_orientation x/y/z: 0.048797, 0.551395, 0.048982
+p_cam_orientation x/y/z: 0.031413, 0.520529, 0.026974
+is_out_of_boundary = 0
+uncompensated_dist = 105.893222
+alpha = 0.904078
+cmos signal frame_count = 224
+=============================================================
+frame_count = 221
+start of frame: vs = 18396044964, exp = 100000
+prev_frame_ts = 1839.570305, current_frame_ts = 1839.603630, dt = 0.033325
+first_line_ts = 1839.603630, last_line_ts = 1839.628696
+now is outer moving region
+v_cam_orientation x/y/z: 0.048479, 0.558540, 0.048883
+p_cam_orientation x/y/z: 0.030747, 0.524085, 0.026823
+is_out_of_boundary = 0
+uncompensated_dist = 106.834470
+alpha = 0.904288
+cmos signal frame_count = 225
+=============================================================
+frame_count = 222
+start of frame: vs = 18396378212, exp = 100000
+prev_frame_ts = 1839.603630, current_frame_ts = 1839.636955, dt = 0.033325
+first_line_ts = 1839.636955, last_line_ts = 1839.662021
+now is outer moving region
+v_cam_orientation x/y/z: 0.048185, 0.565330, 0.048787
+p_cam_orientation x/y/z: 0.031731, 0.527516, 0.027559
+is_out_of_boundary = 0
+uncompensated_dist = 107.894842
+alpha = 0.904566
+cmos signal frame_count = 226
+=============================================================
+frame_count = 223
+start of frame: vs = 18396711460, exp = 100000
+prev_frame_ts = 1839.636955, current_frame_ts = 1839.670279, dt = 0.033325
+first_line_ts = 1839.670279, last_line_ts = 1839.695346
+now is outer moving region
+v_cam_orientation x/y/z: 0.048107, 0.571774, 0.048785
+p_cam_orientation x/y/z: 0.032894, 0.533040, 0.026806
+is_out_of_boundary = 0
+uncompensated_dist = 111.127374
+alpha = 0.905069
+cmos signal frame_count = 227
+=============================================================
+frame_count = 224
+start of frame: vs = 18397044708, exp = 100000
+prev_frame_ts = 1839.670279, current_frame_ts = 1839.703604, dt = 0.033325
+first_line_ts = 1839.703604, last_line_ts = 1839.728671
+now is outer moving region
+v_cam_orientation x/y/z: 0.048240, 0.578088, 0.048742
+p_cam_orientation x/y/z: 0.031652, 0.539691, 0.024945
+is_out_of_boundary = 0
+uncompensated_dist = 109.025953
+alpha = 0.905392
+cmos signal frame_count = 228
+=============================================================
+frame_count = 225
+start of frame: vs = 18397377956, exp = 100000
+prev_frame_ts = 1839.703604, current_frame_ts = 1839.736929, dt = 0.033325
+first_line_ts = 1839.736929, last_line_ts = 1839.761996
+now is outer moving region
+v_cam_orientation x/y/z: 0.048304, 0.584405, 0.048556
+p_cam_orientation x/y/z: 0.029824, 0.546426, 0.024216
+is_out_of_boundary = 0
+uncompensated_dist = 106.225467
+alpha = 0.905491
+cmos signal frame_count = 229
+=============================================================
+frame_count = 226
+start of frame: vs = 18397711204, exp = 100000
+prev_frame_ts = 1839.736929, current_frame_ts = 1839.770254, dt = 0.033325
+first_line_ts = 1839.770254, last_line_ts = 1839.795320
+now is outer moving region
+v_cam_orientation x/y/z: 0.048150, 0.590753, 0.048319
+p_cam_orientation x/y/z: 0.029442, 0.552513, 0.025524
+is_out_of_boundary = 0
+uncompensated_dist = 104.322491
+alpha = 0.905444
+cmos signal frame_count = 230
+=============================================================
+frame_count = 227
+start of frame: vs = 18398044452, exp = 100000
+prev_frame_ts = 1839.770254, current_frame_ts = 1839.803579, dt = 0.033325
+first_line_ts = 1839.803579, last_line_ts = 1839.828645
+now is outer moving region
+v_cam_orientation x/y/z: 0.047924, 0.597027, 0.048211
+p_cam_orientation x/y/z: 0.029573, 0.558959, 0.026451
+is_out_of_boundary = 0
+uncompensated_dist = 104.195541
+alpha = 0.905390
+cmos signal frame_count = 231
+=============================================================
+frame_count = 228
+start of frame: vs = 18398377700, exp = 100000
+prev_frame_ts = 1839.803579, current_frame_ts = 1839.836903, dt = 0.033325
+first_line_ts = 1839.836903, last_line_ts = 1839.861970
+now is outer moving region
+v_cam_orientation x/y/z: 0.047726, 0.603167, 0.048191
+p_cam_orientation x/y/z: 0.032158, 0.564886, 0.026914
+is_out_of_boundary = 0
+uncompensated_dist = 109.871775
+alpha = 0.905759
+cmos signal frame_count = 232
+=============================================================
+frame_count = 229
+start of frame: vs = 18398710948, exp = 100000
+prev_frame_ts = 1839.836903, current_frame_ts = 1839.870228, dt = 0.033325
+first_line_ts = 1839.870228, last_line_ts = 1839.895295
+now is outer moving region
+v_cam_orientation x/y/z: 0.047803, 0.609083, 0.048219
+p_cam_orientation x/y/z: 0.033472, 0.570473, 0.026097
+is_out_of_boundary = 0
+uncompensated_dist = 113.356324
+alpha = 0.906368
+cmos signal frame_count = 233
+=============================================================
+frame_count = 230
+start of frame: vs = 18399044196, exp = 100000
+prev_frame_ts = 1839.870228, current_frame_ts = 1839.903553, dt = 0.033325
+first_line_ts = 1839.903553, last_line_ts = 1839.928620
+now is outer moving region
+v_cam_orientation x/y/z: 0.048025, 0.614799, 0.048188
+p_cam_orientation x/y/z: 0.033309, 0.577013, 0.024732
+is_out_of_boundary = 0
+uncompensated_dist = 112.363532
+alpha = 0.906873
+cmos signal frame_count = 234
+=============================================================
+frame_count = 231
+start of frame: vs = 18399377444, exp = 100000
+prev_frame_ts = 1839.903553, current_frame_ts = 1839.936878, dt = 0.033325
+first_line_ts = 1839.936878, last_line_ts = 1839.961944
+now is outer moving region
+v_cam_orientation x/y/z: 0.048229, 0.620503, 0.048059
+p_cam_orientation x/y/z: 0.038773, 0.582283, 0.024993
+is_out_of_boundary = 0
+uncompensated_dist = 101.579982
+alpha = 0.906553
+cmos signal frame_count = 235
+=============================================================
+frame_count = 232
+start of frame: vs = 18399710692, exp = 100000
+prev_frame_ts = 1839.936878, current_frame_ts = 1839.970203, dt = 0.033325
+first_line_ts = 1839.970203, last_line_ts = 1839.995269
+now is outer moving region
+v_cam_orientation x/y/z: 0.048844, 0.626171, 0.047977
+p_cam_orientation x/y/z: 0.048028, 0.585425, 0.026100
+is_out_of_boundary = 0
+uncompensated_dist = 80.540865
+alpha = 0.904692
+cmos signal frame_count = 236
+=============================================================
+frame_count = 233
+start of frame: vs = 18400043940, exp = 100000
+prev_frame_ts = 1839.970203, current_frame_ts = 1840.003527, dt = 0.033325
+first_line_ts = 1840.003527, last_line_ts = 1840.028594
+now is outer moving region
+v_cam_orientation x/y/z: 0.050138, 0.631655, 0.048001
+p_cam_orientation x/y/z: 0.058228, 0.586922, 0.028024
+is_out_of_boundary = 0
+uncompensated_dist = 66.001537
+alpha = 0.901846
+cmos signal frame_count = 237
+=============================================================
+frame_count = 234
+start of frame: vs = 18400377188, exp = 100000
+prev_frame_ts = 1840.003527, current_frame_ts = 1840.036852, dt = 0.033325
+first_line_ts = 1840.036852, last_line_ts = 1840.061919
+now is outer moving region
+v_cam_orientation x/y/z: 0.052228, 0.636803, 0.048208
+p_cam_orientation x/y/z: 0.064174, 0.590145, 0.029397
+is_out_of_boundary = 0
+uncompensated_dist = 76.548089
+alpha = 0.899924
+cmos signal frame_count = 238
+=============================================================
+frame_count = 235
+start of frame: vs = 18400710436, exp = 100000
+prev_frame_ts = 1840.036852, current_frame_ts = 1840.070177, dt = 0.033325
+first_line_ts = 1840.070177, last_line_ts = 1840.095244
+now is outer moving region
+v_cam_orientation x/y/z: 0.054730, 0.641732, 0.048547
+p_cam_orientation x/y/z: 0.058640, 0.595774, 0.027857
+is_out_of_boundary = 0
+uncompensated_dist = 95.096867
+alpha = 0.899472
+cmos signal frame_count = 239
+=============================================================
+frame_count = 236
+start of frame: vs = 18401043684, exp = 100000
+prev_frame_ts = 1840.070177, current_frame_ts = 1840.103502, dt = 0.033325
+first_line_ts = 1840.103502, last_line_ts = 1840.128568
+now is outer moving region
+v_cam_orientation x/y/z: 0.056633, 0.646638, 0.048749
+p_cam_orientation x/y/z: 0.051819, 0.597000, 0.025358
+is_out_of_boundary = 0
+uncompensated_dist = 97.950629
+alpha = 0.899254
+cmos signal frame_count = 240
+=============================================================
+frame_count = 237
+start of frame: vs = 18401376932, exp = 100000
+prev_frame_ts = 1840.103502, current_frame_ts = 1840.136827, dt = 0.033325
+first_line_ts = 1840.136827, last_line_ts = 1840.161893
+now is outer moving region
+v_cam_orientation x/y/z: 0.057812, 0.651159, 0.048716
+p_cam_orientation x/y/z: 0.050137, 0.587783, 0.023522
+is_out_of_boundary = 0
+uncompensated_dist = 66.370462
+alpha = 0.896708
+cmos signal frame_count = 241
+=============================================================
+frame_count = 238
+start of frame: vs = 18401710180, exp = 100000
+prev_frame_ts = 1840.136827, current_frame_ts = 1840.170151, dt = 0.033325
+first_line_ts = 1840.170151, last_line_ts = 1840.195218
+now is outer moving region
+v_cam_orientation x/y/z: 0.058600, 0.654469, 0.048464
+p_cam_orientation x/y/z: 0.052558, 0.572170, 0.022935
+is_out_of_boundary = 0
+uncompensated_dist = 22.354864
+alpha = 0.891028
+cmos signal frame_count = 242
+=============================================================
+frame_count = 239
+start of frame: vs = 18402043428, exp = 100000
+prev_frame_ts = 1840.170151, current_frame_ts = 1840.203476, dt = 0.033325
+first_line_ts = 1840.203476, last_line_ts = 1840.228543
+now is outer moving region
+v_cam_orientation x/y/z: 0.062320, 0.641971, 0.049157
+p_cam_orientation x/y/z: 0.056449, 0.559752, 0.023468
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.883977
+cmos signal frame_count = 243
+=============================================================
+frame_count = 240
+start of frame: vs = 18402376676, exp = 100000
+prev_frame_ts = 1840.203476, current_frame_ts = 1840.236801, dt = 0.033325
+first_line_ts = 1840.236801, last_line_ts = 1840.261868
+now is outer moving region
+v_cam_orientation x/y/z: 0.063370, 0.642422, 0.048829
+p_cam_orientation x/y/z: 0.058088, 0.556662, 0.024318
+is_out_of_boundary = 0
+uncompensated_dist = 17.881519
+alpha = 0.878603
+cmos signal frame_count = 244
+=============================================================
+frame_count = 241
+start of frame: vs = 18402709924, exp = 100000
+prev_frame_ts = 1840.236801, current_frame_ts = 1840.270126, dt = 0.033325
+first_line_ts = 1840.270126, last_line_ts = 1840.295192
+now is outer moving region
+v_cam_orientation x/y/z: 0.064410, 0.642549, 0.048547
+p_cam_orientation x/y/z: 0.053226, 0.562503, 0.024723
+is_out_of_boundary = 0
+uncompensated_dist = 31.699176
+alpha = 0.874521
+cmos signal frame_count = 245
+=============================================================
+frame_count = 242
+start of frame: vs = 18403043172, exp = 100000
+prev_frame_ts = 1840.270126, current_frame_ts = 1840.303451, dt = 0.033325
+first_line_ts = 1840.303451, last_line_ts = 1840.328517
+now is outer moving region
+v_cam_orientation x/y/z: 0.064849, 0.643100, 0.048298
+p_cam_orientation x/y/z: 0.046212, 0.571840, 0.023839
+is_out_of_boundary = 0
+uncompensated_dist = 50.912218
+alpha = 0.872066
+cmos signal frame_count = 246
+=============================================================
+frame_count = 243
+start of frame: vs = 18403376420, exp = 100000
+prev_frame_ts = 1840.303451, current_frame_ts = 1840.336775, dt = 0.033325
+first_line_ts = 1840.336775, last_line_ts = 1840.361842
+now is outer moving region
+v_cam_orientation x/y/z: 0.064607, 0.644275, 0.048017
+p_cam_orientation x/y/z: 0.049342, 0.577569, 0.024426
+is_out_of_boundary = 0
+uncompensated_dist = 61.431189
+alpha = 0.870513
+cmos signal frame_count = 247
+=============================================================
+frame_count = 244
+start of frame: vs = 18403709668, exp = 100000
+prev_frame_ts = 1840.336775, current_frame_ts = 1840.370100, dt = 0.033325
+first_line_ts = 1840.370100, last_line_ts = 1840.395167
+now is outer moving region
+v_cam_orientation x/y/z: 0.064689, 0.645692, 0.047871
+p_cam_orientation x/y/z: 0.058165, 0.576978, 0.026158
+is_out_of_boundary = 0
+uncompensated_dist = 57.655031
+alpha = 0.868758
+cmos signal frame_count = 248
+=============================================================
+frame_count = 245
+start of frame: vs = 18404042916, exp = 100000
+prev_frame_ts = 1840.370100, current_frame_ts = 1840.403425, dt = 0.033325
+first_line_ts = 1840.403425, last_line_ts = 1840.428492
+now is outer moving region
+v_cam_orientation x/y/z: 0.065542, 0.646770, 0.047939
+p_cam_orientation x/y/z: 0.068835, 0.573672, 0.028135
+is_out_of_boundary = 0
+uncompensated_dist = 49.010013
+alpha = 0.866451
+cmos signal frame_count = 249
+=============================================================
+frame_count = 246
+start of frame: vs = 18404376164, exp = 100000
+prev_frame_ts = 1840.403425, current_frame_ts = 1840.436750, dt = 0.033325
+first_line_ts = 1840.436750, last_line_ts = 1840.461816
+now is outer moving region
+v_cam_orientation x/y/z: 0.067265, 0.647336, 0.048217
+p_cam_orientation x/y/z: 0.073407, 0.571119, 0.027693
+is_out_of_boundary = 0
+uncompensated_dist = 42.165330
+alpha = 0.863751
+cmos signal frame_count = 250
+=============================================================
+frame_count = 247
+start of frame: vs = 18404709412, exp = 100000
+prev_frame_ts = 1840.436750, current_frame_ts = 1840.470075, dt = 0.033325
+first_line_ts = 1840.470075, last_line_ts = 1840.495141
+now is outer moving region
+v_cam_orientation x/y/z: 0.069230, 0.647548, 0.048453
+p_cam_orientation x/y/z: 0.062180, 0.571368, 0.022538
+is_out_of_boundary = 0
+uncompensated_dist = 38.681267
+alpha = 0.860929
+cmos signal frame_count = 251
+=============================================================
+frame_count = 248
+start of frame: vs = 18405042660, exp = 100000
+prev_frame_ts = 1840.470075, current_frame_ts = 1840.503399, dt = 0.033325
+first_line_ts = 1840.503399, last_line_ts = 1840.528466
+now is outer moving region
+v_cam_orientation x/y/z: 0.069984, 0.647699, 0.048204
+p_cam_orientation x/y/z: 0.054023, 0.571095, 0.017004
+is_out_of_boundary = 0
+uncompensated_dist = 34.269529
+alpha = 0.857921
+cmos signal frame_count = 252
+=============================================================
+frame_count = 249
+start of frame: vs = 18405375908, exp = 100000
+prev_frame_ts = 1840.503399, current_frame_ts = 1840.536724, dt = 0.033325
+first_line_ts = 1840.536724, last_line_ts = 1840.561791
+now is outer moving region
+v_cam_orientation x/y/z: 0.069982, 0.647755, 0.047514
+p_cam_orientation x/y/z: 0.052687, 0.569656, 0.012385
+is_out_of_boundary = 0
+uncompensated_dist = 28.642131
+alpha = 0.854647
+cmos signal frame_count = 253
+=============================================================
+frame_count = 250
+start of frame: vs = 18405709156, exp = 100000
+prev_frame_ts = 1840.536724, current_frame_ts = 1840.570049, dt = 0.033325
+first_line_ts = 1840.570049, last_line_ts = 1840.595116
+now is outer moving region
+v_cam_orientation x/y/z: 0.069927, 0.647591, 0.046526
+p_cam_orientation x/y/z: 0.048451, 0.567825, 0.007590
+is_out_of_boundary = 0
+uncompensated_dist = 22.252217
+alpha = 0.851063
+cmos signal frame_count = 254
+=============================================================
+frame_count = 251
+start of frame: vs = 18406042404, exp = 100000
+prev_frame_ts = 1840.570049, current_frame_ts = 1840.603374, dt = 0.033325
+first_line_ts = 1840.603374, last_line_ts = 1840.628440
+now is outer moving region
+v_cam_orientation x/y/z: 0.069432, 0.647172, 0.045200
+p_cam_orientation x/y/z: 0.040502, 0.563405, 0.004653
+is_out_of_boundary = 0
+uncompensated_dist = 11.121435
+alpha = 0.846833
+cmos signal frame_count = 255
+=============================================================
+frame_count = 252
+start of frame: vs = 18406375652, exp = 100000
+prev_frame_ts = 1840.603374, current_frame_ts = 1840.636699, dt = 0.033325
+first_line_ts = 1840.636699, last_line_ts = 1840.661765
+now is outer moving region
+v_cam_orientation x/y/z: 0.065310, 0.637413, 0.044998
+p_cam_orientation x/y/z: 0.037076, 0.553521, 0.005105
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.841992
+cmos signal frame_count = 256
+=============================================================
+frame_count = 253
+start of frame: vs = 18406708900, exp = 100000
+prev_frame_ts = 1840.636699, current_frame_ts = 1840.670023, dt = 0.033325
+first_line_ts = 1840.670023, last_line_ts = 1840.695090
+now is outer moving region
+v_cam_orientation x/y/z: 0.065211, 0.625571, 0.047770
+p_cam_orientation x/y/z: 0.037534, 0.541685, 0.008173
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.837392
+cmos signal frame_count = 257
+=============================================================
+frame_count = 254
+start of frame: vs = 18407042148, exp = 100000
+prev_frame_ts = 1840.670023, current_frame_ts = 1840.703348, dt = 0.033325
+first_line_ts = 1840.703348, last_line_ts = 1840.728415
+now is outer moving region
+v_cam_orientation x/y/z: 0.061764, 0.614218, 0.049855
+p_cam_orientation x/y/z: 0.034792, 0.530231, 0.010860
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.833022
+cmos signal frame_count = 258
+=============================================================
+frame_count = 255
+start of frame: vs = 18407375396, exp = 100000
+prev_frame_ts = 1840.703348, current_frame_ts = 1840.736673, dt = 0.033325
+first_line_ts = 1840.736673, last_line_ts = 1840.761740
+now is outer moving region
+v_cam_orientation x/y/z: 0.060066, 0.609792, 0.049223
+p_cam_orientation x/y/z: 0.032327, 0.521502, 0.013008
+is_out_of_boundary = 0
+uncompensated_dist = 2.547846
+alpha = 0.829060
+cmos signal frame_count = 259
+=============================================================
+frame_count = 256
+start of frame: vs = 18407708644, exp = 100000
+prev_frame_ts = 1840.736673, current_frame_ts = 1840.769998, dt = 0.033325
+first_line_ts = 1840.769998, last_line_ts = 1840.795064
+now is outer moving region
+v_cam_orientation x/y/z: 0.058273, 0.604761, 0.048889
+p_cam_orientation x/y/z: 0.031952, 0.515583, 0.014907
+is_out_of_boundary = 0
+uncompensated_dist = 1.745820
+alpha = 0.825236
+cmos signal frame_count = 260
+=============================================================
+frame_count = 257
+start of frame: vs = 18408041892, exp = 100000
+prev_frame_ts = 1840.769998, current_frame_ts = 1840.803323, dt = 0.033325
+first_line_ts = 1840.803323, last_line_ts = 1840.828389
+now is outer moving region
+v_cam_orientation x/y/z: 0.056723, 0.599572, 0.048825
+p_cam_orientation x/y/z: 0.036960, 0.509841, 0.018052
+is_out_of_boundary = 0
+uncompensated_dist = 2.463840
+alpha = 0.821657
+cmos signal frame_count = 261
+=============================================================
+frame_count = 258
+start of frame: vs = 18408375140, exp = 100000
+prev_frame_ts = 1840.803323, current_frame_ts = 1840.836647, dt = 0.033325
+first_line_ts = 1840.836647, last_line_ts = 1840.861714
+now is outer moving region
+v_cam_orientation x/y/z: 0.056059, 0.594289, 0.049157
+p_cam_orientation x/y/z: 0.048216, 0.504816, 0.025066
+is_out_of_boundary = 0
+uncompensated_dist = 7.216642
+alpha = 0.818609
+cmos signal frame_count = 262
+=============================================================
+frame_count = 259
+start of frame: vs = 18408708388, exp = 100000
+prev_frame_ts = 1840.836647, current_frame_ts = 1840.869972, dt = 0.033325
+first_line_ts = 1840.869972, last_line_ts = 1840.895039
+now is outer moving region
+v_cam_orientation x/y/z: 0.056998, 0.589013, 0.050348
+p_cam_orientation x/y/z: 0.056214, 0.499148, 0.033768
+is_out_of_boundary = 0
+uncompensated_dist = 10.721581
+alpha = 0.815973
+cmos signal frame_count = 263
+=============================================================
+frame_count = 260
+start of frame: vs = 18409041636, exp = 100000
+prev_frame_ts = 1840.869972, current_frame_ts = 1840.903297, dt = 0.033325
+first_line_ts = 1840.903297, last_line_ts = 1840.928364
+now is outer moving region
+v_cam_orientation x/y/z: 0.058978, 0.583683, 0.052540
+p_cam_orientation x/y/z: 0.060159, 0.492665, 0.040440
+is_out_of_boundary = 0
+uncompensated_dist = 9.855062
+alpha = 0.813404
+cmos signal frame_count = 264
+=============================================================
+frame_count = 261
+start of frame: vs = 18409374884, exp = 100000
+prev_frame_ts = 1840.903297, current_frame_ts = 1840.936622, dt = 0.033325
+first_line_ts = 1840.936622, last_line_ts = 1840.961688
+now is outer moving region
+v_cam_orientation x/y/z: 0.061332, 0.578211, 0.055335
+p_cam_orientation x/y/z: 0.058711, 0.484579, 0.038775
+is_out_of_boundary = 0
+uncompensated_dist = 2.066535
+alpha = 0.810387
+cmos signal frame_count = 265
+=============================================================
+frame_count = 262
+start of frame: vs = 18409708132, exp = 100000
+prev_frame_ts = 1840.936622, current_frame_ts = 1840.969947, dt = 0.033325
+first_line_ts = 1840.969947, last_line_ts = 1840.995013
+now is outer moving region
+v_cam_orientation x/y/z: 0.060342, 0.568534, 0.050207
+p_cam_orientation x/y/z: 0.057954, 0.474890, 0.033834
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.807367
+cmos signal frame_count = 266
+=============================================================
+frame_count = 263
+start of frame: vs = 18410041380, exp = 100000
+prev_frame_ts = 1840.969947, current_frame_ts = 1841.003271, dt = 0.033325
+first_line_ts = 1841.003271, last_line_ts = 1841.028338
+now is outer moving region
+v_cam_orientation x/y/z: 0.054603, 0.559046, 0.044363
+p_cam_orientation x/y/z: 0.052684, 0.465325, 0.028670
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.804499
+cmos signal frame_count = 267
+=============================================================
+frame_count = 264
+start of frame: vs = 18410374628, exp = 100000
+prev_frame_ts = 1841.003271, current_frame_ts = 1841.036596, dt = 0.033325
+first_line_ts = 1841.036596, last_line_ts = 1841.061663
+now is outer moving region
+v_cam_orientation x/y/z: 0.047422, 0.549397, 0.039402
+p_cam_orientation x/y/z: 0.046033, 0.455584, 0.024533
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.801774
+cmos signal frame_count = 268
+=============================================================
+frame_count = 265
+start of frame: vs = 18410707876, exp = 100000
+prev_frame_ts = 1841.036596, current_frame_ts = 1841.069921, dt = 0.033325
+first_line_ts = 1841.069921, last_line_ts = 1841.094988
+now is outer moving region
+v_cam_orientation x/y/z: 0.045092, 0.539532, 0.037213
+p_cam_orientation x/y/z: 0.043980, 0.445692, 0.022658
+is_out_of_boundary = 1
+uncompensated_dist = 0.000000
+alpha = 0.799185
+cmos signal frame_count = 269
+=============================================================
+frame_count = 266
+start of frame: vs = 18411041124, exp = 100000
+prev_frame_ts = 1841.069921, current_frame_ts = 1841.103246, dt = 0.033325
+first_line_ts = 1841.103246, last_line_ts = 1841.128312
+now is outer moving region
+v_cam_orientation x/y/z: 0.044037, 0.532081, 0.036483
+p_cam_orientation x/y/z: 0.045345, 0.437579, 0.022151
+is_out_of_boundary = 0
+uncompensated_dist = 1.266936
+alpha = 0.796820
+cmos signal frame_count = 270
+=============================================================
+frame_count = 267
+start of frame: vs = 18411374372, exp = 100000
+prev_frame_ts = 1841.103246, current_frame_ts = 1841.136571, dt = 0.033325
+first_line_ts = 1841.136571, last_line_ts = 1841.161637
+now is outer moving region
+v_cam_orientation x/y/z: 0.043340, 0.524615, 0.035794
+p_cam_orientation x/y/z: 0.046011, 0.430769, 0.021309
+is_out_of_boundary = 0
+uncompensated_dist = 2.827718
+alpha = 0.794688
+cmos signal frame_count = 271
+=============================================================
+frame_count = 268
+start of frame: vs = 18411707620, exp = 100000
+prev_frame_ts = 1841.136571, current_frame_ts = 1841.169895, dt = 0.033325
+first_line_ts = 1841.169895, last_line_ts = 1841.194962
+now is outer moving region
+v_cam_orientation x/y/z: 0.042832, 0.517356, 0.035087
+p_cam_orientation x/y/z: 0.045442, 0.424172, 0.019901
+is_out_of_boundary = 0
+uncompensated_dist = 4.115683
+alpha = 0.792759
+cmos signal frame_count = 272
+=============================================================
+frame_count = 269
+start of frame: vs = 18412040868, exp = 100000
+prev_frame_ts = 1841.169895, current_frame_ts = 1841.203220, dt = 0.033325
+first_line_ts = 1841.203220, last_line_ts = 1841.228287
+now is outer moving region
+v_cam_orientation x/y/z: 0.042301, 0.510317, 0.034280
+p_cam_orientation x/y/z: 0.047069, 0.418633, 0.019409
+is_out_of_boundary = 0
+uncompensated_dist = 7.980547
+alpha = 0.791212
+cmos signal frame_count = 273
+=============================================================
+frame_count = 270
+start of frame: vs = 18412374116, exp = 100000
+prev_frame_ts = 1841.203220, current_frame_ts = 1841.236545, dt = 0.033325
+first_line_ts = 1841.236545, last_line_ts = 1841.261612
+now is outer moving region
+v_cam_orientation x/y/z: 0.042113, 0.503641, 0.033530
+p_cam_orientation x/y/z: 0.050642, 0.413879, 0.019759
+is_out_of_boundary = 0
+uncompensated_dist = 13.681637
+alpha = 0.790165
+cmos signal frame_count = 274
+=============================================================
+frame_count = 271
+start of frame: vs = 18412707364, exp = 100000
+prev_frame_ts = 1841.236545, current_frame_ts = 1841.269870, dt = 0.033325
+first_line_ts = 1841.269870, last_line_ts = 1841.294936
+now is outer moving region
+v_cam_orientation x/y/z: 0.042567, 0.497390, 0.032977
+p_cam_orientation x/y/z: 0.052046, 0.410297, 0.019474
+is_out_of_boundary = 0
+uncompensated_dist = 19.970298
+alpha = 0.789636
+cmos signal frame_count = 275
+=============================================================
+frame_count = 272
+start of frame: vs = 18413040612, exp = 100000
+prev_frame_ts = 1841.269870, current_frame_ts = 1841.303195, dt = 0.033325
+first_line_ts = 1841.303195, last_line_ts = 1841.328261
+now is outer moving region
+v_cam_orientation x/y/z: 0.043132, 0.491699, 0.032455
+p_cam_orientation x/y/z: 0.053388, 0.406287, 0.019365
+is_out_of_boundary = 0
+uncompensated_dist = 24.365774
+alpha = 0.789459
+cmos signal frame_count = 276
+=============================================================
+frame_count = 273
+start of frame: vs = 18413373860, exp = 100000
+prev_frame_ts = 1841.303195, current_frame_ts = 1841.336519, dt = 0.033325
+first_line_ts = 1841.336519, last_line_ts = 1841.361586
+now is outer moving region
+v_cam_orientation x/y/z: 0.043806, 0.486390, 0.032014
+p_cam_orientation x/y/z: 0.053077, 0.403308, 0.018939
+is_out_of_boundary = 0
+uncompensated_dist = 29.784964
+alpha = 0.789692
+cmos signal frame_count = 277
+=============================================================
+frame_count = 274
+start of frame: vs = 18413707108, exp = 100000
+prev_frame_ts = 1841.336519, current_frame_ts = 1841.369844, dt = 0.033325
+first_line_ts = 1841.369844, last_line_ts = 1841.394911
+now is outer moving region
+v_cam_orientation x/y/z: 0.044321, 0.481576, 0.031595
+p_cam_orientation x/y/z: 0.051945, 0.400691, 0.018430
+is_out_of_boundary = 0
+uncompensated_dist = 34.583381
+alpha = 0.790270
+cmos signal frame_count = 278
+=============================================================
+frame_count = 275
+start of frame: vs = 18414040356, exp = 100000
+prev_frame_ts = 1841.369844, current_frame_ts = 1841.403169, dt = 0.033325
+first_line_ts = 1841.403169, last_line_ts = 1841.428236
+now is outer moving region
+v_cam_orientation x/y/z: 0.044546, 0.477222, 0.031183
+p_cam_orientation x/y/z: 0.050930, 0.397822, 0.018069
+is_out_of_boundary = 0
+uncompensated_dist = 37.972045
+alpha = 0.791069
+cmos signal frame_count = 279
+=============================================================
+frame_count = 276
+start of frame: vs = 18414373604, exp = 100000
+prev_frame_ts = 1841.403169, current_frame_ts = 1841.436494, dt = 0.033325
+first_line_ts = 1841.436494, last_line_ts = 1841.461560
+now is outer moving region
+v_cam_orientation x/y/z: 0.044548, 0.473203, 0.030798
+p_cam_orientation x/y/z: 0.048957, 0.395225, 0.017375
+is_out_of_boundary = 0
+uncompensated_dist = 40.959879
+alpha = 0.792049
+cmos signal frame_count = 280
+=============================================================
+frame_count = 277
+start of frame: vs = 18414706852, exp = 100000
+prev_frame_ts = 1841.436494, current_frame_ts = 1841.469819, dt = 0.033325
+first_line_ts = 1841.469819, last_line_ts = 1841.494885
+now is outer moving region
+v_cam_orientation x/y/z: 0.044194, 0.469504, 0.030381
+p_cam_orientation x/y/z: 0.047187, 0.393209, 0.016900
+is_out_of_boundary = 0
+uncompensated_dist = 44.765660
+alpha = 0.793263
+cmos signal frame_count = 281
+=============================================================
+frame_count = 278
+start of frame: vs = 18415040100, exp = 100000
+prev_frame_ts = 1841.469819, current_frame_ts = 1841.503143, dt = 0.033325
+first_line_ts = 1841.503143, last_line_ts = 1841.528210
+now is outer moving region
+v_cam_orientation x/y/z: 0.043566, 0.466213, 0.029974
+p_cam_orientation x/y/z: 0.046667, 0.391863, 0.016892
+is_out_of_boundary = 0
+uncompensated_dist = 49.637266
+alpha = 0.794777
+cmos signal frame_count = 282
+=============================================================
+frame_count = 279
+start of frame: vs = 18415373348, exp = 100000
+prev_frame_ts = 1841.503143, current_frame_ts = 1841.536468, dt = 0.033325
+first_line_ts = 1841.536468, last_line_ts = 1841.561535
+now is outer moving region
+v_cam_orientation x/y/z: 0.042981, 0.463360, 0.029662
+p_cam_orientation x/y/z: 0.045527, 0.390790, 0.016196
+is_out_of_boundary = 0
+uncompensated_dist = 53.472974
+alpha = 0.796499
+=============================================================
+frame_count = 280
+start of frame: vs = 18415706596, exp = 100000
+prev_frame_ts = 1841.536468, current_frame_ts = 1841.569793, dt = 0.033325
+first_line_ts = 1841.569793, last_line_ts = 1841.594860
+now is outer moving region
+v_cam_orientation x/y/z: 0.042300, 0.460845, 0.029293
+p_cam_orientation x/y/z: 0.045200, 0.389438, 0.015588
+is_out_of_boundary = 0
+uncompensated_dist = 56.218742
+alpha = 0.798338
+cmos signal frame_count = 283
+cmos signal frame_count = 284
+=============================================================
+frame_count = 281
+start of frame: vs = 18416373092, exp = 100000
+prev_frame_ts = 1841.569793, current_frame_ts = 1841.636443, dt = 0.066650
+first_line_ts = 1841.636443, last_line_ts = 1841.661509
+now is outer moving region
+v_cam_orientation x/y/z: 0.041616, 0.458513, 0.028887
+p_cam_orientation x/y/z: 0.043309, 0.388500, 0.014309
+is_out_of_boundary = 0
+uncompensated_dist = 58.833797
+alpha = 0.800279
+cmos signal frame_count = 285
+=============================================================
+frame_count = 282
+start of frame: vs = 18416706340, exp = 100000
+prev_frame_ts = 1841.636443, current_frame_ts = 1841.669767, dt = 0.033325
+first_line_ts = 1841.669767, last_line_ts = 1841.694834
+now is outer moving region
+v_cam_orientation x/y/z: 0.040710, 0.456471, 0.028321
+p_cam_orientation x/y/z: 0.042445, 0.387469, 0.013966
+is_out_of_boundary = 0
+uncompensated_dist = 61.273686
+alpha = 0.802304
+cmos signal frame_count = 286
+=============================================================
+frame_count = 283
+start of frame: vs = 18417039588, exp = 100000
+prev_frame_ts = 1841.669767, current_frame_ts = 1841.703092, dt = 0.033325
+first_line_ts = 1841.703092, last_line_ts = 1841.728159
+now is outer moving region
+v_cam_orientation x/y/z: 0.039840, 0.454636, 0.027814
+p_cam_orientation x/y/z: 0.043731, 0.386445, 0.014457
+is_out_of_boundary = 0
+uncompensated_dist = 63.929274
+alpha = 0.804424
+cmos signal frame_count = 287
+=============================================================
+frame_count = 284
+start of frame: vs = 18417372836, exp = 100000
+prev_frame_ts = 1841.703092, current_frame_ts = 1841.736417, dt = 0.033325
+first_line_ts = 1841.736417, last_line_ts = 1841.761484
+now is outer moving region
+v_cam_orientation x/y/z: 0.039401, 0.452950, 0.027503
+p_cam_orientation x/y/z: 0.044632, 0.385038, 0.015039
+is_out_of_boundary = 0
+uncompensated_dist = 65.309899
+alpha = 0.806541
+cmos signal frame_count = 288
+cmos_sensor not activate!
+singal activate set to false and break
+=============================================================
+frame_count = 285
+start of frame: vs = 18417706084, exp = 100000
+prev_frame_ts = 1841.736417, current_frame_ts = 1841.769742, dt = 0.033325
+first_line_ts = 1841.769742, last_line_ts = 1841.794808
+now is outer moving region
+v_cam_orientation x/y/z: 0.039206, 0.451290, 0.027357
+p_cam_orientation x/y/z: 0.044909, 0.384009, 0.015416
+is_out_of_boundary = 0
+uncompensated_dist = 67.070425
+alpha = 0.808682
+run eis pass2!
+========================================
+frame_count = 0
+========================================
+frame_count = 1
+========================================
+frame_count = 2
+========================================
+frame_count = 3
+========================================
+frame_count = 4
+========================================
+frame_count = 5
+========================================
+frame_count = 6
+========================================
+frame_count = 7
+========================================
+frame_count = 8
+========================================
+frame_count = 9
+========================================
+frame_count = 10
+========================================
+frame_count = 11
+========================================
+frame_count = 12
+========================================
+frame_count = 13
+========================================
+frame_count = 14
+========================================
+frame_count = 15
+========================================
+frame_count = 16
+========================================
+frame_count = 17
+========================================
+frame_count = 18
+========================================
+frame_count = 19
+========================================
+frame_count = 20
+========================================
+frame_count = 21
+========================================
+frame_count = 22
+========================================
+frame_count = 23
+========================================
+frame_count = 24
+========================================
+frame_count = 25
+========================================
+frame_count = 26
+========================================
+frame_count = 27
+========================================
+frame_count = 28
+========================================
+frame_count = 29
+========================================
+frame_count = 30
+========================================
+frame_count = 31
+========================================
+frame_count = 32
+========================================
+frame_count = 33
+========================================
+frame_count = 34
+========================================
+frame_count = 35
+========================================
+frame_count = 36
+========================================
+frame_count = 37
+========================================
+frame_count = 38
+========================================
+frame_count = 39
+========================================
+frame_count = 40
+========================================
+frame_count = 41
+========================================
+frame_count = 42
+========================================
+frame_count = 43
+========================================
+frame_count = 44
+========================================
+frame_count = 45
+========================================
+frame_count = 46
+========================================
+frame_count = 47
+========================================
+frame_count = 48
+========================================
+frame_count = 49
+========================================
+frame_count = 50
+========================================
+frame_count = 51
+========================================
+frame_count = 52
+========================================
+frame_count = 53
+========================================
+frame_count = 54
+========================================
+frame_count = 55
+========================================
+frame_count = 56
+========================================
+frame_count = 57
+========================================
+frame_count = 58
+========================================
+frame_count = 59
+========================================
+frame_count = 60
+========================================
+frame_count = 61
+========================================
+frame_count = 62
+========================================
+frame_count = 63
+========================================
+frame_count = 64
+========================================
+frame_count = 65
+========================================
+frame_count = 66
+========================================
+frame_count = 67
+========================================
+frame_count = 68
+========================================
+frame_count = 69
+========================================
+frame_count = 70
+========================================
+frame_count = 71
+========================================
+frame_count = 72
+========================================
+frame_count = 73
+========================================
+frame_count = 74
+========================================
+frame_count = 75
+========================================
+frame_count = 76
+========================================
+frame_count = 77
+========================================
+frame_count = 78
+========================================
+frame_count = 79
+========================================
+frame_count = 80
+========================================
+frame_count = 81
+========================================
+frame_count = 82
+========================================
+frame_count = 83
+========================================
+frame_count = 84
+========================================
+frame_count = 85
+========================================
+frame_count = 86
+========================================
+frame_count = 87
+========================================
+frame_count = 88
+========================================
+frame_count = 89
+========================================
+frame_count = 90
+========================================
+frame_count = 91
+========================================
+frame_count = 92
+========================================
+frame_count = 93
+========================================
+frame_count = 94
+========================================
+frame_count = 95
+========================================
+frame_count = 96
+========================================
+frame_count = 97
+========================================
+frame_count = 98
+========================================
+frame_count = 99
+========================================
+frame_count = 100
+========================================
+frame_count = 101
+========================================
+frame_count = 102
+========================================
+frame_count = 103
+========================================
+frame_count = 104
+========================================
+frame_count = 105
+========================================
+frame_count = 106
+========================================
+frame_count = 107
+========================================
+frame_count = 108
+========================================
+frame_count = 109
+========================================
+frame_count = 110
+========================================
+frame_count = 111
+========================================
+frame_count = 112
+========================================
+frame_count = 113
+========================================
+frame_count = 114
+========================================
+frame_count = 115
+========================================
+frame_count = 116
+========================================
+frame_count = 117
+========================================
+frame_count = 118
+========================================
+frame_count = 119
+========================================
+frame_count = 120
+========================================
+frame_count = 121
+========================================
+frame_count = 122
+========================================
+frame_count = 123
+========================================
+frame_count = 124
+========================================
+frame_count = 125
+========================================
+frame_count = 126
+========================================
+frame_count = 127
+========================================
+frame_count = 128
+========================================
+frame_count = 129
+========================================
+frame_count = 130
+========================================
+frame_count = 131
+========================================
+frame_count = 132
+========================================
+frame_count = 133
+========================================
+frame_count = 134
+========================================
+frame_count = 135
+========================================
+frame_count = 136
+========================================
+frame_count = 137
+========================================
+frame_count = 138
+========================================
+frame_count = 139
+========================================
+frame_count = 140
+========================================
+frame_count = 141
+========================================
+frame_count = 142
+========================================
+frame_count = 143
+========================================
+frame_count = 144
+========================================
+frame_count = 145
+========================================
+frame_count = 146
+========================================
+frame_count = 147
+========================================
+frame_count = 148
+========================================
+frame_count = 149
+========================================
+frame_count = 150
+========================================
+frame_count = 151
+========================================
+frame_count = 152
+========================================
+frame_count = 153
+========================================
+frame_count = 154
+========================================
+frame_count = 155
+========================================
+frame_count = 156
+========================================
+frame_count = 157
+========================================
+frame_count = 158
+========================================
+frame_count = 159
+========================================
+frame_count = 160
+========================================
+frame_count = 161
+========================================
+frame_count = 162
+========================================
+frame_count = 163
+========================================
+frame_count = 164
+========================================
+frame_count = 165
+========================================
+frame_count = 166
+========================================
+frame_count = 167
+========================================
+frame_count = 168
+========================================
+frame_count = 169
+========================================
+frame_count = 170
+========================================
+frame_count = 171
+========================================
+frame_count = 172
+========================================
+frame_count = 173
+========================================
+frame_count = 174
+========================================
+frame_count = 175
+========================================
+frame_count = 176
+========================================
+frame_count = 177
+========================================
+frame_count = 178
+========================================
+frame_count = 179
+========================================
+frame_count = 180
+========================================
+frame_count = 181
+========================================
+frame_count = 182
+========================================
+frame_count = 183
+========================================
+frame_count = 184
+========================================
+frame_count = 185
+========================================
+frame_count = 186
+========================================
+frame_count = 187
+========================================
+frame_count = 188
+========================================
+frame_count = 189
+========================================
+frame_count = 190
+========================================
+frame_count = 191
+========================================
+frame_count = 192
+========================================
+frame_count = 193
+========================================
+frame_count = 194
+========================================
+frame_count = 195
+========================================
+frame_count = 196
+========================================
+frame_count = 197
+========================================
+frame_count = 198
+========================================
+frame_count = 199
+========================================
+frame_count = 200
+========================================
+frame_count = 201
+========================================
+frame_count = 202
+========================================
+frame_count = 203
+========================================
+frame_count = 204
+========================================
+frame_count = 205
+========================================
+frame_count = 206
+========================================
+frame_count = 207
+========================================
+frame_count = 208
+========================================
+frame_count = 209
+========================================
+frame_count = 210
+========================================
+frame_count = 211
+========================================
+frame_count = 212
+========================================
+frame_count = 213
+========================================
+frame_count = 214
+========================================
+frame_count = 215
+========================================
+frame_count = 216
+========================================
+frame_count = 217
+========================================
+frame_count = 218
+========================================
+frame_count = 219
+========================================
+frame_count = 220
+========================================
+frame_count = 221
+========================================
+frame_count = 222
+========================================
+frame_count = 223
+========================================
+frame_count = 224
+========================================
+frame_count = 225
+========================================
+frame_count = 226
+========================================
+frame_count = 227
+========================================
+frame_count = 228
+========================================
+frame_count = 229
+========================================
+frame_count = 230
+========================================
+frame_count = 231
+========================================
+frame_count = 232
+========================================
+frame_count = 233
+========================================
+frame_count = 234
+========================================
+frame_count = 235
+========================================
+frame_count = 236
+========================================
+frame_count = 237
+========================================
+frame_count = 238
+========================================
+frame_count = 239
+========================================
+frame_count = 240
+========================================
+frame_count = 241
+========================================
+frame_count = 242
+========================================
+frame_count = 243
+========================================
+frame_count = 244
+========================================
+frame_count = 245
+========================================
+frame_count = 246
+========================================
+frame_count = 247
+========================================
+frame_count = 248
+========================================
+frame_count = 249
+========================================
+frame_count = 250
+========================================
+frame_count = 251
+========================================
+frame_count = 252
+========================================
+frame_count = 253
+========================================
+frame_count = 254
+========================================
+frame_count = 255
+========================================
+frame_count = 256
+========================================
+frame_count = 257
+========================================
+frame_count = 258
+========================================
+frame_count = 259
+========================================
+frame_count = 260
+========================================
+frame_count = 261
+========================================
+frame_count = 262
+========================================
+frame_count = 263
+========================================
+frame_count = 264
+========================================
+frame_count = 265
+========================================
+frame_count = 266
+========================================
+frame_count = 267
+========================================
+frame_count = 268
+========================================
+frame_count = 269
+========================================
+frame_count = 270
+========================================
+frame_count = 271
+========================================
+frame_count = 272
+========================================
+frame_count = 273
+========================================
+frame_count = 274
+========================================
+frame_count = 275
+========================================
+frame_count = 276
+========================================
+frame_count = 277
+========================================
+frame_count = 278
+========================================
+frame_count = 279
+========================================
+frame_count = 280
+========================================
+frame_count = 281

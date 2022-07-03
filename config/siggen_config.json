@@ -1,0 +1,8 @@
+{
+    "gyro_log_idx": [0,1,2,3],
+    "gyro_time_scale_exp": 7,
+    "cmos_time_scale_exp": 7,
+    "gyro_time_scale":1,
+    "cmos_time_scale":1
+    
+}

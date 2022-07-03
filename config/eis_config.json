@@ -1,0 +1,13 @@
+{
+    "alpha": 0.9,
+    "alpha_max": 0.92,
+    "alpha_min": 0.7,
+    "beta": 1.0,
+    "crop_ratio": 0.1,
+    "damping": 0.95,
+    "gamma": 0.96,
+    "inner_padding_ratio": 0.0,
+    "knee_point": 19,
+    "lookahead_no": 16,
+    "use_nonlinear_filter": true
+}
