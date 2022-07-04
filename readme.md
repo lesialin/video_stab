@@ -3,6 +3,8 @@
 This repo is to implementation video stabilization by gyroscope, which is based on paper [A Non-Linear Filter for Gyroscope-Based Video
 Stabilization](https://research.nvidia.com/sites/default/files/pubs/2014-09_A-Non-Linear-Filter/bell_troccoli_pulli_eccv2014.pdf)
 
+You can refer the algo memo: https://github.com/lesialin/video_stab/blob/main/doc/algo_memo/Non_Linear_Filter_of_vid_stab/Non-Linear%20Filter%20for%20Video%20Stabilization.md
+
 
 The simulation of vid_stab flow is as below, 
 
